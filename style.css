@@ -1,0 +1,363 @@
+* {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+}
+
+
+
+/* Styling for header - START */
+.header {
+    position: sticky;
+    top: 0;
+    width: 100%;
+    height: 80px;
+    background-color: #448ba9;
+    display: block;
+}
+
+.inner-header {
+    width: 100%;
+    height: 100%;
+    display: block;
+    margin: 0 auto;
+    /*background-color: silver;*/ 
+}
+
+.logo { 
+    display: table;
+    float: left;
+    padding-top: 1.5%;
+    padding-left: 1%;
+}
+
+.logo-container {
+    height: 100%;
+    display: table;
+    float: none;
+    text-align: center;
+    margin-left: 10%;
+    padding-top: 1%;
+}
+
+.logo-container h1 {
+    color: white;
+    height: 50%;
+    /*display: table-cell;
+    vertical-align: top;*/
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 32px;
+    font-weight:  100;
+}
+
+.logo-container h1 span {
+    font-weight: 600;
+}
+
+.logo-container P { 
+    /*display: table-cell;
+    vertical-align: bottom;*/
+    height: 50%;
+    color: white;
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: 100;
+    font-style: italic;
+}
+
+.top-navigation {
+    margin-top: -4%;
+}
+.navigation {
+    height: 100%;
+    width: auto;
+    display: table;
+    float: right;
+    margin-right: 2%;
+}
+
+.navigation a { 
+    height: 100%;
+    padding: 0px 20px;
+}
+
+.navigation a:last-child {
+    padding-right: 0;
+} 
+
+.navigation a li {
+    display: table-cell;
+    vertical-align: middle;
+    align-items: center;
+    height: 100%;
+    color: white;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 16px;
+    
+}
+
+/* Styling for header - END */
+
+
+/* Styling for container1 -  START*/
+
+.container1 {
+    display: grid;
+    grid-template-columns: 7fr 3fr;
+}
+
+.blue-title {
+    font-family: "Noto Sans";
+    font-size: 30px;
+    font-weight: 200;
+    color: #448ba9;
+}
+
+.red-title {
+    font-family: "Noto Sans";
+    font-size: 30px;
+    font-weight: 700;
+    color: #DC143C;
+}
+
+.red-title span {
+    color: white;
+    border: 1px solid #DC143C;
+    border-radius: 10px;
+    background-color: #DC143C;
+    padding: 1%;
+
+}
+
+/* Styling for container1 - END */
+
+
+
+/* Styling for section1  -  START*/
+
+.content1 {
+    text-align: center;
+    padding-top: 13%;
+
+}
+
+.content1-2 {
+    display: block;
+    float: left;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+/* Styling for section1  -  END */
+
+
+
+/* Styling for seprator  -  START */
+
+.separator {
+    height: 75px;
+    width: 40%;
+    border: 1px solid #448ba9;
+    border-radius: 5px;
+    text-align: center;
+    margin-left: 30%;
+    margin-top: 4%;
+    background-color: #448ba9;
+    color: white;
+}
+
+.separator h3 {
+    font-family: 'Archivo Black';
+    font-size: 3em;
+    padding-top: 1%;
+}
+
+
+/* Styling for seprator  -  END */
+
+
+
+/* Styling for content2  -  START */
+
+.content2 {
+    width: 60%;
+    height: auto;
+    margin-top: 1%;
+    margin-left: 20%;
+
+}
+
+.content2 ul li::before {
+    content: "\2022";
+    color: #DC143C;
+    font-weight: bold;
+    display: inline-block; 
+    width: 1em;
+    margin-left: -1em;
+  }
+
+.content2 ul {
+    padding: 4%;
+    font-family: 'Josefin Sans';
+    font-size: 1.5em;
+    color: #448ba9;
+    text-align: center;
+}
+
+
+/* Styling for content2  -  END */
+
+
+/* Styling for services-wrapper  -  START */
+
+.services-wrapper {
+    display: grid;
+    grid-template-columns: 4fr 1fr;
+    gap: 3em;
+    grid-auto-rows: minmax(100px, auto);
+    width: 60%;
+    margin-left: 20%;
+    margin-bottom: 2%;
+}
+
+.service-box {
+    height: 150px;
+    display: flex;
+    align-items: center;
+}
+
+.service-box img {
+    height: 100%;
+    width: auto;
+    align-self: center;
+    border: 2px solid #448ba9;
+    border-radius: 10px;
+    box-shadow: 10px 10px 15px black;
+    padding: 4%;
+}
+
+.service-box h3 {
+    font-family: 'Archivo Black';
+    font-size: 30px;
+    text-align: center;
+    color: #448ba9;
+    padding-left: 15%;
+
+}
+
+/* Styling for services-wrapper  -  END */
+
+
+.credential-container {
+    width: 80%;
+    display: grid;
+    grid-template-columns: 2fr 2fr 2fr;
+    height: 200px;
+    margin-top: 5%;
+    margin-left: 10% ;
+}
+
+.credential-box {
+    height: 200px;
+}
+.credential-box img {
+    display: block;
+    align-items: center;
+    height: 100%;
+}
+
+#box1 {
+    padding-top: 5% ;
+    padding-left: 5%;
+}
+#box2 {
+    padding-left: 21%;
+}
+
+#box3 {
+    height: 30%;
+    border: 1px olid blue;
+    padding-top: 8%;
+}
+
+/* Styling for content4  -  START */
+
+.content4 {
+    width: 60%;
+    margin-top: 1%;
+    margin-left: 20%;
+}
+
+.content4-container {
+    display: grid;
+    grid-template-columns: 3fr 3fr;
+}
+
+.content4-box img {
+    height: 100px;
+}
+
+#box4-1 {
+    padding-left: 20%;
+}
+
+
+
+
+
+
+
+
+/* Styling for content4  -  END */
+
+
+
+/* Styling for footer  -  START */
+
+    .footer {
+        position: relative;
+        bottom: 0;
+        height: 75px;
+        width: 100%;
+        background-color: #448ba9;
+        color: white;
+        font-family: 'Josefin Sans';
+        font-size: 16px;
+    }
+
+    .footer-container {
+        width: 70%;
+        display: grid;
+        grid-template-columns: 5fr 5fr;
+        margin-top: 5%;
+        margin-left: 15%;
+        padding-top: 1.4%;
+        
+    }
+    .email {
+        width: 50%;
+        padding: 0;
+        text-align: center;
+    }
+
+    .phones {
+        text-align: right;
+    }
+
+
+
+
+
+
+
+/* Styling for footer  -  END */
+
