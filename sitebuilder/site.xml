@@ -1,0 +1,1837 @@
+<site>
+  <asset id="%LocalDirectoryAsset:/">
+  </asset>
+  <asset id="%LocalDirectoryAsset:/images">
+  </asset>
+  <asset id="%ImageAssetImpl:/images/4_001-187x171.jpg">
+  </asset>
+  <asset id="%ImageAssetImpl:/images/4_005-244x192.jpg">
+  </asset>
+  <asset id="%ImageAssetImpl:/images/accountant_green_plain-210x1594.jpg">
+  </asset>
+  <asset id="%ImageAssetImpl:/images/accountant_green_plain-295x2697.jpg">
+  </asset>
+  <asset id="%ImageAssetImpl:/images/accountant_green_plain-313x1622.jpg">
+  </asset>
+  <asset id="%ImageAssetImpl:/images/accountant_green_plain-318x1400.jpg">
+  </asset>
+  <asset id="%ImageAssetImpl:/images/accountant_green_plain-343x1619.jpg">
+  </asset>
+  <asset id="%ImageAssetImpl:/images/AOprojectorMaunt_550-205x142.png">
+  </asset>
+  <asset id="%ImageAssetImpl:/images/ARK-900-opt-144x118.jpg">
+  </asset>
+  <asset id="%ImageAssetImpl:/images/autoprojector_550CP-100-139x116.png">
+  </asset>
+  <asset id="%ImageAssetImpl:/images/autoprojector_550CP-100-144x130.png">
+  </asset>
+  <asset id="%ImageAssetImpl:/images/autorefractorFA6500_1900-80x86.png">
+  </asset>
+  <asset id="%ImageAssetImpl:/images/B_26L_20Keratometer_20-opt-200x143.jpg">
+  </asset>
+  <asset id="%ImageAssetImpl:/images/chairstand-234x189.jpg">
+  </asset>
+  <asset id="%ImageAssetImpl:/images/CopelanRe-245x183.jpg">
+  </asset>
+  <asset id="%ImageAssetImpl:/images/Espanol-0-active-55390.png">
+  </asset>
+  <asset id="%ImageAssetImpl:/images/Espanol-0-inactive-55359.png">
+  </asset>
+  <asset id="%ImageAssetImpl:/images/Espanol-0-mouseOver-55421.png">
+  </asset>
+  <asset id="%ImageAssetImpl:/images/Espanol-1-active-55468.png">
+  </asset>
+  <asset id="%ImageAssetImpl:/images/Espanol-1-inactive-55453.png">
+  </asset>
+  <asset id="%ImageAssetImpl:/images/Espanol-1-mouseOver-55500.png">
+  </asset>
+  <asset id="%ImageAssetImpl:/images/Espanol-2-active-55593.png">
+  </asset>
+  <asset id="%ImageAssetImpl:/images/Espanol-2-inactive-55562.png">
+  </asset>
+  <asset id="%ImageAssetImpl:/images/Espanol-2-mouseOver-55625.png">
+  </asset>
+  <asset id="%ImageAssetImpl:/images/Espanol-3-active-55687.png">
+  </asset>
+  <asset id="%ImageAssetImpl:/images/Espanol-3-inactive-55656.png">
+  </asset>
+  <asset id="%ImageAssetImpl:/images/Espanol-3-mouseOver-55718.png">
+  </asset>
+  <asset id="%ImageAssetImpl:/images/foroptor_007-245x166.jpg">
+  </asset>
+  <asset id="%ImageAssetImpl:/images/green_blur_title_bar-1000x30.jpg">
+  </asset>
+  <asset id="%ImageAssetImpl:/images/green_blur_title_bar-1000x34.jpg">
+  </asset>
+  <asset id="%ImageAssetImpl:/images/green_blur_title_bar-1000x38.jpg">
+  </asset>
+  <asset id="%ImageAssetImpl:/images/green_blur_title_bar-430x30.jpg">
+  </asset>
+  <asset id="%ImageAssetImpl:/images/green_blur_title_bar-829x1.jpg">
+  </asset>
+  <asset id="%ImageAssetImpl:/images/green_blur_title_bar-976x30.jpg">
+  </asset>
+  <asset id="%ImageAssetImpl:/images/Home-0-active-56046.png">
+  </asset>
+  <asset id="%ImageAssetImpl:/images/Home-0-inactive-55984.png">
+  </asset>
+  <asset id="%ImageAssetImpl:/images/Home-0-mouseOver-56125.png">
+  </asset>
+  <asset id="%ImageAssetImpl:/images/Home-1-active-56234.png">
+  </asset>
+  <asset id="%ImageAssetImpl:/images/Home-1-inactive-56187.png">
+  </asset>
+  <asset id="%ImageAssetImpl:/images/Home-1-mouseOver-56296.png">
+  </asset>
+  <asset id="%ImageAssetImpl:/images/Home-2-active-56375.png">
+  </asset>
+  <asset id="%ImageAssetImpl:/images/Home-2-inactive-56328.png">
+  </asset>
+  <asset id="%ImageAssetImpl:/images/Home-2-mouseOver-56421.png">
+  </asset>
+  <asset id="%ImageAssetImpl:/images/Home-3-active-56515.png">
+  </asset>
+  <asset id="%ImageAssetImpl:/images/Home-3-inactive-56468.png">
+  </asset>
+  <asset id="%ImageAssetImpl:/images/Home-3-mouseOver-56546.png">
+  </asset>
+  <asset id="%ImageAssetImpl:/images/Home2-0-active-32296.png">
+  </asset>
+  <asset id="%ImageAssetImpl:/images/Home2-0-inactive-32250.png">
+  </asset>
+  <asset id="%ImageAssetImpl:/images/Home2-0-mouseOver-32328.png">
+  </asset>
+  <asset id="%ImageAssetImpl:/images/keratometer_001-201x145.jpg">
+  </asset>
+  <asset id="%ImageAssetImpl:/images/keratometer_2_010-180x124.jpg">
+  </asset>
+  <asset id="%ImageAssetImpl:/images/LSL-1400-147x128.jpg">
+  </asset>
+  <asset id="%ImageAssetImpl:/images/LSL-1400-159x226.jpg">
+  </asset>
+  <asset id="%ImageAssetImpl:/images/LSL-1400-182x233.jpg">
+  </asset>
+  <asset id="%ImageAssetImpl:/images/LSL-1400-72x92.jpg">
+  </asset>
+  <asset id="%ImageAssetImpl:/images/marcoprojector-209x147.jpg">
+  </asset>
+  <asset id="%ImageAssetImpl:/images/numbers_green_dark_light-1000x189.jpg">
+  </asset>
+  <asset id="%ImageAssetImpl:/images/numbers_green_dark_light-1000x203.jpg">
+  </asset>
+  <asset id="%ImageAssetImpl:/images/numbers_green_dark_light-1000x438.jpg">
+  </asset>
+  <asset id="%ImageAssetImpl:/images/numbers_green_dark_light-758x282.jpg">
+  </asset>
+  <asset id="%ImageAssetImpl:/images/numbers_green_dark_light-973x209.jpg">
+  </asset>
+  <asset id="%ImageAssetImpl:/images/numbers_green_dark_light-998x183.jpg">
+  </asset>
+  <asset id="%ImageAssetImpl:/images/OPT-SLIT-135x153.jpg">
+  </asset>
+  <asset id="%ImageAssetImpl:/images/phoropter_005-187x127.jpg">
+  </asset>
+  <asset id="%ImageAssetImpl:/images/phoropter_005-187x143.jpg">
+  </asset>
+  <asset id="%ImageAssetImpl:/images/phoropter_005-203x135.jpg">
+  </asset>
+  <asset id="%ImageAssetImpl:/images/phoropter_005-205x142.jpg">
+  </asset>
+  <asset id="%ImageAssetImpl:/images/phoropter_006-148x102.jpg">
+  </asset>
+  <asset id="%ImageAssetImpl:/images/phoropter_006-95x73.jpg">
+  </asset>
+  <asset id="%ImageAssetImpl:/images/phoropter_007-168x123.jpg">
+  </asset>
+  <asset id="%ImageAssetImpl:/images/phoropter_007-198x143.jpg">
+  </asset>
+  <asset id="%ImageAssetImpl:/images/phoropter_008-116x85.jpg">
+  </asset>
+  <asset id="%ImageAssetImpl:/images/phoropter_008-122x80.jpg">
+  </asset>
+  <asset id="%ImageAssetImpl:/images/phoropter_008-128x97.jpg">
+  </asset>
+  <asset id="%ImageAssetImpl:/images/phoropter_008-149x105.jpg">
+  </asset>
+  <asset id="%ImageAssetImpl:/images/phoropter_008-170x120.jpg">
+  </asset>
+  <asset id="%ImageAssetImpl:/images/phoropter_008-65x46.jpg">
+  </asset>
+  <asset id="%ImageAssetImpl:/images/Phoroptor-98x78.jpg">
+  </asset>
+  <asset id="%ImageAssetImpl:/images/phoroptor_4-80x80.png">
+  </asset>
+  <asset id="%ImageAssetImpl:/images/projector6-94x81.png">
+  </asset>
+  <asset id="%ImageAssetImpl:/images/Refracor-service2-0-active-46953.png">
+  </asset>
+  <asset id="%ImageAssetImpl:/images/Refracor-service2-0-inactive-46906.png">
+  </asset>
+  <asset id="%ImageAssetImpl:/images/Refracor-service2-0-mouseOver-46984.png">
+  </asset>
+  <asset id="%ImageAssetImpl:/images/services-0-active-50546.png">
+  </asset>
+  <asset id="%ImageAssetImpl:/images/services-0-inactive-50453.png">
+  </asset>
+  <asset id="%ImageAssetImpl:/images/services-0-mouseOver-50609.png">
+  </asset>
+  <asset id="%ImageAssetImpl:/images/services-1-active-50703.png">
+  </asset>
+  <asset id="%ImageAssetImpl:/images/services-1-inactive-50656.png">
+  </asset>
+  <asset id="%ImageAssetImpl:/images/services-1-mouseOver-50718.png">
+  </asset>
+  <asset id="%ImageAssetImpl:/images/services-2-active-50828.png">
+  </asset>
+  <asset id="%ImageAssetImpl:/images/services-2-inactive-50750.png">
+  </asset>
+  <asset id="%ImageAssetImpl:/images/services-2-mouseOver-50859.png">
+  </asset>
+  <asset id="%ImageAssetImpl:/images/services-3-active-50921.png">
+  </asset>
+  <asset id="%ImageAssetImpl:/images/services-3-inactive-50890.png">
+  </asset>
+  <asset id="%ImageAssetImpl:/images/services-3-mouseOver-50953.png">
+  </asset>
+  <asset id="%ImageAssetImpl:/images/services2-1-active-34006.png">
+  </asset>
+  <asset id="%ImageAssetImpl:/images/services2-1-inactive-33959.png">
+  </asset>
+  <asset id="%ImageAssetImpl:/images/services2-1-mouseOver-34038.png">
+  </asset>
+  <asset id="%ImageAssetImpl:/images/slit-lamp3_008-334x255.jpg">
+  </asset>
+  <asset id="%ImageAssetImpl:/images/slitlast2-241x175.jpg">
+  </asset>
+  <asset id="%ImageAssetImpl:/images/specials-0-active-18437.png">
+  </asset>
+  <asset id="%ImageAssetImpl:/images/specials-0-inactive-18375.png">
+  </asset>
+  <asset id="%ImageAssetImpl:/images/specials-0-mouseOver-18515.png">
+  </asset>
+  <asset id="%ImageAssetImpl:/images/specials-1-active-18640.png">
+  </asset>
+  <asset id="%ImageAssetImpl:/images/specials-1-inactive-18593.png">
+  </asset>
+  <asset id="%ImageAssetImpl:/images/specials-1-mouseOver-18671.png">
+  </asset>
+  <asset id="%ImageAssetImpl:/images/specials-2-active-18765.png">
+  </asset>
+  <asset id="%ImageAssetImpl:/images/specials-2-inactive-18718.png">
+  </asset>
+  <asset id="%ImageAssetImpl:/images/specials-2-mouseOver-18812.png">
+  </asset>
+  <asset id="%ImageAssetImpl:/images/specials-3-active-18890.png">
+  </asset>
+  <asset id="%ImageAssetImpl:/images/specials-3-inactive-18843.png">
+  </asset>
+  <asset id="%ImageAssetImpl:/images/specials-3-mouseOver-18937.png">
+  </asset>
+  <asset id="%ImageAssetImpl:/images/specials11-0-active-98669.png">
+  </asset>
+  <asset id="%ImageAssetImpl:/images/specials11-0-inactive-98637.png">
+  </asset>
+  <asset id="%ImageAssetImpl:/images/specials11-0-mouseOver-98716.png">
+  </asset>
+  <asset id="%ImageAssetImpl:/images/specials11-1-active-98794.png">
+  </asset>
+  <asset id="%ImageAssetImpl:/images/specials11-1-inactive-98762.png">
+  </asset>
+  <asset id="%ImageAssetImpl:/images/specials11-1-mouseOver-98825.png">
+  </asset>
+  <asset id="%ImageAssetImpl:/images/standlast18_1_-233x236.jpg">
+  </asset>
+  <asset id="%LocalDirectoryAsset:/images/thumbnails">
+  </asset>
+  <asset id="%ImageAssetImpl:/images/thumbnails/Aboutus_html.png">
+  </asset>
+  <asset id="%ImageAssetImpl:/images/thumbnails/advertise_html.png">
+  </asset>
+  <asset id="%ImageAssetImpl:/images/thumbnails/Espanol_html.png">
+  </asset>
+  <asset id="%ImageAssetImpl:/images/thumbnails/index_html.png">
+  </asset>
+  <asset id="%ImageAssetImpl:/images/thumbnails/invoices_html.png">
+  </asset>
+  <asset id="%LocalDirectoryAsset:/images/thumbnails/navigation_bars">
+  </asset>
+  <asset id="%ImageAssetImpl:/images/thumbnails/navigation_bars/aboutus.png">
+  </asset>
+  <asset id="%ImageAssetImpl:/images/thumbnails/navigation_bars/Espanol.png">
+  </asset>
+  <asset id="%ImageAssetImpl:/images/thumbnails/navigation_bars/Home.png">
+  </asset>
+  <asset id="%ImageAssetImpl:/images/thumbnails/navigation_bars/Home2.png">
+  </asset>
+  <asset id="%ImageAssetImpl:/images/thumbnails/navigation_bars/Refracor-service2.png">
+  </asset>
+  <asset id="%ImageAssetImpl:/images/thumbnails/navigation_bars/services.png">
+  </asset>
+  <asset id="%ImageAssetImpl:/images/thumbnails/navigation_bars/services2.png">
+  </asset>
+  <asset id="%ImageAssetImpl:/images/thumbnails/navigation_bars/specials.png">
+  </asset>
+  <asset id="%ImageAssetImpl:/images/thumbnails/navigation_bars/specials11.png">
+  </asset>
+  <asset id="%ImageAssetImpl:/images/thumbnails/navigation_bars/Used-equipment.png">
+  </asset>
+  <asset id="%LocalDirectoryAsset:/images/thumbnails/PHOROPTOR">
+  </asset>
+  <asset id="%ImageAssetImpl:/images/thumbnails/Refractor-service_html.png">
+  </asset>
+  <asset id="%ImageAssetImpl:/images/thumbnails/services_html.png">
+  </asset>
+  <asset id="%ImageAssetImpl:/images/thumbnails/Specials11_html.png">
+  </asset>
+  <asset id="%ImageAssetImpl:/images/thumbnails/Specials_html.png">
+  </asset>
+  <asset id="%ImageAssetImpl:/images/thumbnails/TEXAS-OPHTHALMIC_html.png">
+  </asset>
+  <asset id="%ImageAssetImpl:/images/thumbnails/Used-Equipment_html.png">
+  </asset>
+  <asset id="%ImageAssetImpl:/images/tn_PHUSO-CHI-FOROPTER-139x116.jpg">
+  </asset>
+  <asset id="%ImageAssetImpl:/images/tn_PHUSO-CHI-FOROPTER-140x137.jpg">
+  </asset>
+  <asset id="%ImageAssetImpl:/images/tn_PHUSO-CHI-FOROPTER-148x130.jpg">
+  </asset>
+  <asset id="%ImageAssetImpl:/images/tn_PHUSO-CHI-FOROPTER-149x126.jpg">
+  </asset>
+  <asset id="%ImageAssetImpl:/images/tn_PHUSO-CHI-FOROPTER-151x115.jpg">
+  </asset>
+  <asset id="%ImageAssetImpl:/images/tn_PHUSO-CHI-FOROPTER-158x128.jpg">
+  </asset>
+  <asset id="%ImageAssetImpl:/images/tn_RHB-CS-POWER-100x112.jpg">
+  </asset>
+  <asset id="%ImageAssetImpl:/images/tn_RHB-CS-POWER-132x184.jpg">
+  </asset>
+  <asset id="%ImageAssetImpl:/images/tn_RHB-CS-POWER-134x171.jpg">
+  </asset>
+  <asset id="%ImageAssetImpl:/images/tn_RHB-CS-POWER-145x132.jpg">
+  </asset>
+  <asset id="%ImageAssetImpl:/images/tn_RHB-CS-POWER-147x192.jpg">
+  </asset>
+  <asset id="%ImageAssetImpl:/images/TOM-tl2000s-149x130.jpg">
+  </asset>
+  <asset id="%ImageAssetImpl:/images/TopconRMA2000_2500-121x128.png">
+  </asset>
+  <asset id="%ImageAssetImpl:/images/TopconRMA2000_2500-244x192.png">
+  </asset>
+  <asset id="%ImageAssetImpl:/images/topcon_2sl_021-239x165.jpg">
+  </asset>
+  <asset id="%ImageAssetImpl:/images/topcon_2sl_023-241x180.jpg">
+  </asset>
+  <asset id="%ImageAssetImpl:/images/Used-equipment-0-active-32046.png">
+  </asset>
+  <asset id="%ImageAssetImpl:/images/Used-equipment-0-inactive-32000.png">
+  </asset>
+  <asset id="%ImageAssetImpl:/images/Used-equipment-0-mouseOver-32078.png">
+  </asset>
+  <asset id="%LocalDirectoryAsset:/preview">
+  </asset>
+  <asset id="%PageAssetImpl:/preview/aboutus.html">
+    <refers-to id="%VirtualLocalImageAsset:/sitebuilder/images/c.gif"/>
+  </asset>
+  <asset id="%PageAssetImpl:/preview/advertise.html">
+    <refers-to id="%VirtualLocalImageAsset:/sitebuilder/images/c.gif"/>
+  </asset>
+  <asset id="%LocalDirectoryAsset:/preview/clipart">
+  </asset>
+  <asset id="%LocalDirectoryAsset:/preview/clipart/backgrounds">
+  </asset>
+  <asset id="%LocalDirectoryAsset:/preview/clipart/backgrounds/sidebar">
+  </asset>
+  <asset id="%ImageAssetImpl:/preview/clipart/backgrounds/sidebar/gradient_blue_to_dark.gif">
+  </asset>
+  <asset id="%ImageAssetImpl:/preview/clipart/backgrounds/sidebar/gradient_gray_to_dark.gif">
+  </asset>
+  <asset id="%LocalDirectoryAsset:/preview/clipart/backgrounds/tile">
+  </asset>
+  <asset id="%ImageAssetImpl:/preview/clipart/backgrounds/tile/linesThin_gray.gif">
+  </asset>
+  <asset id="%LocalDirectoryAsset:/preview/clipart/bullets">
+  </asset>
+  <asset id="%ImageAssetImpl:/preview/clipart/bullets/greenPlus.gif">
+  </asset>
+  <asset id="%LocalDirectoryAsset:/preview/clipart/buttons">
+  </asset>
+  <asset id="%LocalDirectoryAsset:/preview/clipart/buttons/blank">
+  </asset>
+  <asset id="%ImageAssetImpl:/preview/clipart/buttons/blank/beveledButton_grey.gif">
+  </asset>
+  <asset id="%ImageAssetImpl:/preview/clipart/buttons/blank/limeGreenGradient.gif">
+  </asset>
+  <asset id="%LocalDirectoryAsset:/preview/clipart/buttons/themes">
+  </asset>
+  <asset id="%LocalDirectoryAsset:/preview/clipart/buttons/themes/chrome_teal">
+  </asset>
+  <asset id="%ImageAssetImpl:/preview/clipart/buttons/themes/chrome_teal/active.gif">
+  </asset>
+  <asset id="%ImageAssetImpl:/preview/clipart/buttons/themes/chrome_teal/inactive.gif">
+  </asset>
+  <asset id="%ImageAssetImpl:/preview/clipart/buttons/themes/chrome_teal/mouseOver.gif">
+  </asset>
+  <asset id="%LocalDirectoryAsset:/preview/clipart/buttons/themes/squares_tan_red">
+  </asset>
+  <asset id="%ImageAssetImpl:/preview/clipart/buttons/themes/squares_tan_red/active.gif">
+  </asset>
+  <asset id="%ImageAssetImpl:/preview/clipart/buttons/themes/squares_tan_red/inactive.gif">
+  </asset>
+  <asset id="%ImageAssetImpl:/preview/clipart/buttons/themes/squares_tan_red/mouseOver.gif">
+  </asset>
+  <asset id="%LocalDirectoryAsset:/preview/clipart/buttons/themes/square_dark_navy">
+  </asset>
+  <asset id="%ImageAssetImpl:/preview/clipart/buttons/themes/square_dark_navy/active.gif">
+  </asset>
+  <asset id="%ImageAssetImpl:/preview/clipart/buttons/themes/square_dark_navy/inactive.gif">
+  </asset>
+  <asset id="%ImageAssetImpl:/preview/clipart/buttons/themes/square_dark_navy/mouseOver.gif">
+  </asset>
+  <asset id="%LocalDirectoryAsset:/preview/clipart/images">
+  </asset>
+  <asset id="%LocalDirectoryAsset:/preview/clipart/images/sidebars">
+  </asset>
+  <asset id="%ImageAssetImpl:/preview/clipart/images/sidebars/accountant_blue_plain.jpg">
+  </asset>
+  <asset id="%ImageAssetImpl:/preview/clipart/images/sidebars/accountant_green_plain.jpg">
+  </asset>
+  <asset id="%LocalDirectoryAsset:/preview/clipart/lines">
+  </asset>
+  <asset id="%LocalDirectoryAsset:/preview/clipart/lines/horizontal">
+  </asset>
+  <asset id="%ImageAssetImpl:/preview/clipart/lines/horizontal/gray_blur_title_bar.jpg">
+  </asset>
+  <asset id="%ImageAssetImpl:/preview/clipart/lines/horizontal/green_blur_title_bar.jpg">
+  </asset>
+  <asset id="%LocalDirectoryAsset:/preview/clipart/pageHeaders">
+  </asset>
+  <asset id="%ImageAssetImpl:/preview/clipart/pageHeaders/numbers_blue_dark_light.jpg">
+  </asset>
+  <asset id="%ImageAssetImpl:/preview/clipart/pageHeaders/numbers_green_dark_light.jpg">
+  </asset>
+  <asset id="%PageAssetImpl:/preview/contactus.html">
+    <refers-to id="%VirtualLocalImageAsset:/sitebuilder/images/c.gif"/>
+  </asset>
+  <asset id="%PageAssetImpl:/preview/Espanol.html">
+    <refers-to id="%VirtualLocalImageAsset:/sitebuilder/images/c.gif"/>
+  </asset>
+  <asset id="%PageAssetImpl:/preview/index.html">
+    <refers-to id="%VirtualLocalImageAsset:/sitebuilder/images/c.gif"/>
+  </asset>
+  <asset id="%PageAssetImpl:/preview/invoices.html">
+    <refers-to id="%VirtualLocalImageAsset:/sitebuilder/images/c.gif"/>
+  </asset>
+  <asset id="%LocalDirectoryAsset:/preview/PHOROPTOR">
+  </asset>
+  <asset id="%PageAssetImpl:/preview/PHOROPTOR/REFRACTORSERVICE.html">
+    <refers-to id="%VirtualLocalImageAsset:/sitebuilder/images/c.gif"/>
+  </asset>
+  <asset id="%PageAssetImpl:/preview/PRO-VISTA.html">
+    <refers-to id="%VirtualLocalImageAsset:/sitebuilder/images/c.gif"/>
+  </asset>
+  <asset id="%PageAssetImpl:/preview/REFRACOR-SERVICE.html">
+    <refers-to id="%VirtualLocalImageAsset:/sitebuilder/images/c.gif"/>
+  </asset>
+  <asset id="%PageAssetImpl:/preview/Refractor-service.html">
+    <refers-to id="%VirtualLocalImageAsset:/sitebuilder/images/c.gif"/>
+  </asset>
+  <asset id="%PageAssetImpl:/preview/REFRACTORSERVICE.html">
+    <refers-to id="%VirtualLocalImageAsset:/sitebuilder/images/c.gif"/>
+  </asset>
+  <asset id="%PageAssetImpl:/preview/services.html">
+    <refers-to id="%VirtualLocalImageAsset:/sitebuilder/images/c.gif"/>
+  </asset>
+  <asset id="%PageAssetImpl:/preview/SERVICES2.html">
+    <refers-to id="%VirtualLocalImageAsset:/sitebuilder/images/c.gif"/>
+  </asset>
+  <asset id="%LocalDirectoryAsset:/preview/sitebuilder">
+  </asset>
+  <asset id="%LocalDirectoryAsset:/preview/sitebuilder/clipart">
+  </asset>
+  <asset id="%LocalDirectoryAsset:/preview/sitebuilder/clipart/backgrounds">
+  </asset>
+  <asset id="%LocalDirectoryAsset:/preview/sitebuilder/clipart/backgrounds/fullpage">
+  </asset>
+  <asset id="%ImageAssetImpl:/preview/sitebuilder/clipart/backgrounds/fullpage/linesThin_gray.gif">
+  </asset>
+  <asset id="%LocalDirectoryAsset:/preview/sitebuilder/clipart/backgrounds/tile">
+  </asset>
+  <asset id="%ImageAssetImpl:/preview/sitebuilder/clipart/backgrounds/tile/limeGreenGradientBar_end.gif">
+  </asset>
+  <asset id="%LocalDirectoryAsset:/preview/sitebuilder/clipart/bars">
+  </asset>
+  <asset id="%LocalDirectoryAsset:/preview/sitebuilder/clipart/bars/low-carb">
+  </asset>
+  <asset id="%LocalDirectoryAsset:/preview/sitebuilder/clipart/bars/low-carb/horizontal">
+  </asset>
+  <asset id="%ImageAssetImpl:/preview/sitebuilder/clipart/bars/low-carb/horizontal/beige_thin_rule_short.gif">
+  </asset>
+  <asset id="%ImageAssetImpl:/preview/sitebuilder/clipart/bars/low-carb/horizontal/buttonDividerLine_gray.gif">
+  </asset>
+  <asset id="%ImageAssetImpl:/preview/sitebuilder/clipart/bars/low-carb/horizontal/footer_dkGrayRed.gif">
+  </asset>
+  <asset id="%ImageAssetImpl:/preview/sitebuilder/clipart/bars/low-carb/horizontal/gold_sign.gif">
+  </asset>
+  <asset id="%ImageAssetImpl:/preview/sitebuilder/clipart/bars/low-carb/horizontal/greenOnGrey1.gif">
+  </asset>
+  <asset id="%ImageAssetImpl:/preview/sitebuilder/clipart/bars/low-carb/horizontal/green_Line.gif">
+  </asset>
+  <asset id="%LocalDirectoryAsset:/preview/sitebuilder/clipart/bars/low-carb/vertical">
+  </asset>
+  <asset id="%ImageAssetImpl:/preview/sitebuilder/clipart/bars/low-carb/vertical/aquaThinBarPinkLine.gif">
+  </asset>
+  <asset id="%ImageAssetImpl:/preview/sitebuilder/clipart/bars/low-carb/vertical/dkBluePixel_strip_vertical.gif">
+  </asset>
+  <asset id="%ImageAssetImpl:/preview/sitebuilder/clipart/bars/low-carb/vertical/GreyGreen_textFrameLeft.gif">
+  </asset>
+  <asset id="%ImageAssetImpl:/preview/sitebuilder/clipart/bars/low-carb/vertical/onePixelWideLine_red.gif">
+  </asset>
+  <asset id="%LocalDirectoryAsset:/preview/sitebuilder/clipart/bars/regular">
+  </asset>
+  <asset id="%LocalDirectoryAsset:/preview/sitebuilder/clipart/bars/regular/horizontal">
+  </asset>
+  <asset id="%ImageAssetImpl:/preview/sitebuilder/clipart/bars/regular/horizontal/chromeMastheadBlue.jpg">
+  </asset>
+  <asset id="%ImageAssetImpl:/preview/sitebuilder/clipart/bars/regular/horizontal/columnBreak_grayRed.gif">
+  </asset>
+  <asset id="%ImageAssetImpl:/preview/sitebuilder/clipart/bars/regular/horizontal/redBlueGrey_box.gif">
+  </asset>
+  <asset id="%ImageAssetImpl:/preview/sitebuilder/clipart/bars/regular/horizontal/stethoscopeWithDoc_green.gif">
+  </asset>
+  <asset id="%LocalDirectoryAsset:/preview/sitebuilder/clipart/bars/regular/title">
+  </asset>
+  <asset id="%ImageAssetImpl:/preview/sitebuilder/clipart/bars/regular/title/limeGreenGradientBar.gif">
+  </asset>
+  <asset id="%LocalDirectoryAsset:/preview/sitebuilder/clipart/bars/regular/vertical">
+  </asset>
+  <asset id="%ImageAssetImpl:/preview/sitebuilder/clipart/bars/regular/vertical/whiteGreyGradientBar.gif">
+  </asset>
+  <asset id="%LocalDirectoryAsset:/preview/sitebuilder/clipart/bullets">
+  </asset>
+  <asset id="%LocalDirectoryAsset:/preview/sitebuilder/clipart/bullets/misc">
+  </asset>
+  <asset id="%ImageAssetImpl:/preview/sitebuilder/clipart/bullets/misc/mouse_black.gif">
+  </asset>
+  <asset id="%LocalDirectoryAsset:/preview/sitebuilder/clipart/buttons">
+  </asset>
+  <asset id="%LocalDirectoryAsset:/preview/sitebuilder/clipart/buttons/sets">
+  </asset>
+  <asset id="%LocalDirectoryAsset:/preview/sitebuilder/clipart/buttons/sets/chrome_purple">
+  </asset>
+  <asset id="%ImageAssetImpl:/preview/sitebuilder/clipart/buttons/sets/chrome_purple/active.gif">
+  </asset>
+  <asset id="%LocalDirectoryAsset:/preview/sitebuilder/clipart/buttons/sets/gray_gridLines">
+  </asset>
+  <asset id="%ImageAssetImpl:/preview/sitebuilder/clipart/buttons/sets/gray_gridLines/active.gif">
+  </asset>
+  <asset id="%ImageAssetImpl:/preview/sitebuilder/clipart/buttons/sets/gray_gridLines/inactive.gif">
+  </asset>
+  <asset id="%ImageAssetImpl:/preview/sitebuilder/clipart/buttons/sets/gray_gridLines/mouseOver.gif">
+  </asset>
+  <asset id="%LocalDirectoryAsset:/preview/sitebuilder/clipart/buttons/sets/green_cutout">
+  </asset>
+  <asset id="%ImageAssetImpl:/preview/sitebuilder/clipart/buttons/sets/green_cutout/active.gif">
+  </asset>
+  <asset id="%ImageAssetImpl:/preview/sitebuilder/clipart/buttons/sets/green_cutout/inactive.gif">
+  </asset>
+  <asset id="%ImageAssetImpl:/preview/sitebuilder/clipart/buttons/sets/green_cutout/mouseOver.gif">
+  </asset>
+  <asset id="%LocalDirectoryAsset:/preview/sitebuilder/clipart/buttons/sets/green_outlined">
+  </asset>
+  <asset id="%ImageAssetImpl:/preview/sitebuilder/clipart/buttons/sets/green_outlined/active.gif">
+  </asset>
+  <asset id="%ImageAssetImpl:/preview/sitebuilder/clipart/buttons/sets/green_outlined/inactive.gif">
+  </asset>
+  <asset id="%ImageAssetImpl:/preview/sitebuilder/clipart/buttons/sets/green_outlined/mouseOver.gif">
+  </asset>
+  <asset id="%LocalDirectoryAsset:/preview/sitebuilder/clipart/buttons/singles">
+  </asset>
+  <asset id="%ImageAssetImpl:/preview/sitebuilder/clipart/buttons/singles/beveledButton_grey.gif">
+  </asset>
+  <asset id="%ImageAssetImpl:/preview/sitebuilder/clipart/buttons/singles/blackBorderTransparent.gif">
+  </asset>
+  <asset id="%ImageAssetImpl:/preview/sitebuilder/clipart/buttons/singles/goldBoxWhiteLines.gif">
+  </asset>
+  <asset id="%ImageAssetImpl:/preview/sitebuilder/clipart/buttons/singles/lightGreyRec_leftRightBoarder.gif">
+  </asset>
+  <asset id="%LocalDirectoryAsset:/preview/sitebuilder/clipart/frames">
+  </asset>
+  <asset id="%ImageAssetImpl:/preview/sitebuilder/clipart/frames/angledBorderCrop_gray.gif">
+  </asset>
+  <asset id="%ImageAssetImpl:/preview/sitebuilder/clipart/frames/chromeTabletBlue.jpg">
+  </asset>
+  <asset id="%ImageAssetImpl:/preview/sitebuilder/clipart/frames/chromeTabletPurple.jpg">
+  </asset>
+  <asset id="%LocalDirectoryAsset:/preview/sitebuilder/clipart/images">
+  </asset>
+  <asset id="%LocalDirectoryAsset:/preview/sitebuilder/clipart/images/punctuation">
+  </asset>
+  <asset id="%ImageAssetImpl:/preview/sitebuilder/clipart/images/punctuation/bracket_large_left.gif">
+  </asset>
+  <asset id="%ImageAssetImpl:/preview/sitebuilder/clipart/images/punctuation/bracket_large_right.gif">
+  </asset>
+  <asset id="%LocalDirectoryAsset:/preview/sitebuilder/clipart/images/sponsors">
+  </asset>
+  <asset id="%ImageAssetImpl:/preview/sitebuilder/clipart/images/sponsors/hotjobs_transparent.gif">
+  </asset>
+  <asset id="%LocalDirectoryAsset:/preview/sitebuilder/clipart/photos">
+  </asset>
+  <asset id="%LocalDirectoryAsset:/preview/sitebuilder/clipart/photos/people">
+  </asset>
+  <asset id="%ImageAssetImpl:/preview/sitebuilder/clipart/photos/people/faceGlassesSuperZoom_oliveGreen.jpg">
+  </asset>
+  <asset id="%LocalDirectoryAsset:/preview/sitebuilder/images">
+  </asset>
+  <asset id="%ImageAssetImpl:/preview/sitebuilder/images/c.gif">
+  </asset>
+  <asset id="%LocalDirectoryAsset:/preview/sitebuilder/save">
+  </asset>
+  <asset id="%PageAssetImpl:/preview/Specials.html">
+    <refers-to id="%VirtualLocalImageAsset:/sitebuilder/images/c.gif"/>
+  </asset>
+  <asset id="%PageAssetImpl:/preview/Specials11.html">
+    <refers-to id="%VirtualLocalImageAsset:/sitebuilder/images/c.gif"/>
+  </asset>
+  <asset id="%PageAssetImpl:/preview/TEXAS-OPHTHALMIC.html">
+    <refers-to id="%VirtualLocalImageAsset:/sitebuilder/images/c.gif"/>
+  </asset>
+  <asset id="%PageAssetImpl:/preview/untitled_file.html">
+    <refers-to id="%VirtualLocalImageAsset:/sitebuilder/images/c.gif"/>
+  </asset>
+  <asset id="%PageAssetImpl:/preview/Used-Equipment.html">
+    <refers-to id="%VirtualLocalImageAsset:/sitebuilder/images/c.gif"/>
+  </asset>
+  <asset id="%PageAssetImpl:/preview/Usedequipment.html">
+    <refers-to id="%VirtualLocalImageAsset:/sitebuilder/images/c.gif"/>
+  </asset>
+  <asset id="%PageAssetImpl:/preview/usedophthalmicequipment.html">
+    <refers-to id="%VirtualLocalImageAsset:/sitebuilder/images/c.gif"/>
+  </asset>
+  <asset id="%PageAssetImpl:/preview/VER-TEX.html">
+    <refers-to id="%VirtualLocalImageAsset:/sitebuilder/images/c.gif"/>
+  </asset>
+  <asset id="%LocalDirectoryAsset:/save">
+  </asset>
+  <asset id="%LocalDirectoryAsset:/save/PHOROPTOR">
+  </asset>
+  <asset id="%VirtualLocalDirectoryAsset:/clipart">
+  </asset>
+  <asset id="%VirtualLocalDirectoryAsset:/clipart/bullets">
+  </asset>
+  <asset id="%VirtualLocalDirectoryAsset:/clipart/buttons">
+  </asset>
+  <asset id="%VirtualLocalDirectoryAsset:/clipart/buttons/blank">
+  </asset>
+  <asset id="%VirtualLocalDirectoryAsset:/clipart/images">
+  </asset>
+  <asset id="%VirtualLocalDirectoryAsset:/clipart/images/sidebars">
+  </asset>
+  <asset id="%VirtualLocalDirectoryAsset:/clipart/pageHeaders">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/bullets/greenThreeCircle.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/buttons/blank/greenYellowDot.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/images/sidebars/sunriseOrangeYellow.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/images/sidebars/sunriseOrangeYellow2.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/pageHeaders/hillsSunGrow.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/pageHeaders/hillsSunGrow2.gif">
+  </asset>
+  <asset id="%VirtualLocalDirectoryAsset:/clipart/backgrounds">
+  </asset>
+  <asset id="%VirtualLocalDirectoryAsset:/clipart/backgrounds/tile">
+  </asset>
+  <asset id="%VirtualLocalDirectoryAsset:/clipart/images/frames">
+  </asset>
+  <asset id="%VirtualLocalDirectoryAsset:/clipart/photos">
+  </asset>
+  <asset id="%VirtualLocalDirectoryAsset:/clipart/photos/objects">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/backgrounds/tile/dogGray.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/bullets/dogPawWhite.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/buttons/blank/dogTag.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/images/frames/textBox_blue.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/images/titleBar_black.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/images/titleBar_black_sm.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/photos/dogFace.jpg">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/photos/objects/hairBrush.jpg">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/photos/objects/petLeashRed.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/bullets/greenArrow_bullet.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/buttons/blank/gray_button.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/images/sidebars/BuildingGreyPhoto.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/pageHeaders/grayArchitecture.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/pageHeaders/greenWindows.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/bullets/yellowThickArrow.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/buttons/blank/filmFrame.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/photos/cameraLens.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/photos/filmCans.gif">
+  </asset>
+  <asset id="%VirtualLocalDirectoryAsset:/clipart/backgrounds/sidebar">
+  </asset>
+  <asset id="%VirtualLocalDirectoryAsset:/clipart/bullets/arrows">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/backgrounds/sidebar/rulerBkgrnd.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/bullets/arrows/blueArrowPointingRight.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/buttons/blank/greyTrapazoid.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/images/rulerBackgroundwithRedBar.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/pageHeaders/carHeader.jpg">
+  </asset>
+  <asset id="%VirtualLocalDirectoryAsset:/clipart/lines">
+  </asset>
+  <asset id="%VirtualLocalDirectoryAsset:/clipart/lines/horizontal">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/bullets/wave_pink.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/buttons/blank/pink_twirl.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/images/face_pink_outline.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/lines/horizontal/navline_pink.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/pageHeaders/pinkWaves_bottom.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/pageHeaders/pinkWaves_top.gif">
+  </asset>
+  <asset id="%VirtualLocalDirectoryAsset:/clipart/backgrounds/fullpage">
+  </asset>
+  <asset id="%VirtualLocalDirectoryAsset:/clipart/bullets/diamonds">
+  </asset>
+  <asset id="%VirtualLocalDirectoryAsset:/clipart/bullets/numbers">
+  </asset>
+  <asset id="%VirtualLocalDirectoryAsset:/clipart/bullets/squares">
+  </asset>
+  <asset id="%VirtualLocalDirectoryAsset:/clipart/buttons/store">
+  </asset>
+  <asset id="%VirtualLocalDirectoryAsset:/clipart/buttons/themes">
+  </asset>
+  <asset id="%VirtualLocalDirectoryAsset:/clipart/buttons/themes/beam">
+  </asset>
+  <asset id="%VirtualLocalDirectoryAsset:/clipart/buttons/themes/blue">
+  </asset>
+  <asset id="%VirtualLocalDirectoryAsset:/clipart/buttons/themes/bubble">
+  </asset>
+  <asset id="%VirtualLocalDirectoryAsset:/clipart/buttons/themes/designer1">
+  </asset>
+  <asset id="%VirtualLocalDirectoryAsset:/clipart/buttons/themes/designer2">
+  </asset>
+  <asset id="%VirtualLocalDirectoryAsset:/clipart/buttons/themes/designer3">
+  </asset>
+  <asset id="%VirtualLocalDirectoryAsset:/clipart/buttons/themes/forest">
+  </asset>
+  <asset id="%VirtualLocalDirectoryAsset:/clipart/buttons/themes/gem">
+  </asset>
+  <asset id="%VirtualLocalDirectoryAsset:/clipart/buttons/themes/glow">
+  </asset>
+  <asset id="%VirtualLocalDirectoryAsset:/clipart/buttons/themes/gray">
+  </asset>
+  <asset id="%VirtualLocalDirectoryAsset:/clipart/buttons/themes/jazzy">
+  </asset>
+  <asset id="%VirtualLocalDirectoryAsset:/clipart/buttons/themes/jelly">
+  </asset>
+  <asset id="%VirtualLocalDirectoryAsset:/clipart/buttons/themes/modern">
+  </asset>
+  <asset id="%VirtualLocalDirectoryAsset:/clipart/buttons/themes/pencil">
+  </asset>
+  <asset id="%VirtualLocalDirectoryAsset:/clipart/buttons/themes/pillbox">
+  </asset>
+  <asset id="%VirtualLocalDirectoryAsset:/clipart/buttons/themes/round">
+  </asset>
+  <asset id="%VirtualLocalDirectoryAsset:/clipart/buttons/themes/simple">
+  </asset>
+  <asset id="%VirtualLocalDirectoryAsset:/clipart/buttons/themes/sleek">
+  </asset>
+  <asset id="%VirtualLocalDirectoryAsset:/clipart/buttons/themes/splat">
+  </asset>
+  <asset id="%VirtualLocalDirectoryAsset:/clipart/buttons/themes/stone">
+  </asset>
+  <asset id="%VirtualLocalDirectoryAsset:/clipart/buttons/themes/view-display">
+  </asset>
+  <asset id="%VirtualLocalDirectoryAsset:/clipart/buttons/themes/view-screen">
+  </asset>
+  <asset id="%VirtualLocalDirectoryAsset:/clipart/buttons/themes/wood">
+  </asset>
+  <asset id="%VirtualLocalDirectoryAsset:/clipart/images/general">
+  </asset>
+  <asset id="%VirtualLocalDirectoryAsset:/clipart/lines/vertical">
+  </asset>
+  <asset id="%VirtualLocalDirectoryAsset:/clipart/photos/business">
+  </asset>
+  <asset id="%VirtualLocalDirectoryAsset:/sounds">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/backgrounds/fullpage/autumtrees.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/backgrounds/fullpage/bar_blue_package.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/backgrounds/fullpage/bar_red_gear.jpg">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/backgrounds/fullpage/chart_green.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/backgrounds/fullpage/classic_blue.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/backgrounds/fullpage/simple_blue.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/backgrounds/fullpage/simple_green.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/backgrounds/fullpage/simple_pink.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/backgrounds/fullpage/simple_yellow.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/backgrounds/sidebar/advice.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/backgrounds/sidebar/album_blue.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/backgrounds/sidebar/album_blue2.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/backgrounds/sidebar/album_pink.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/backgrounds/sidebar/album_tan.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/backgrounds/sidebar/album_white.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/backgrounds/sidebar/art.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/backgrounds/sidebar/autos.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/backgrounds/sidebar/baby_blue.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/backgrounds/sidebar/baby_pink.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/backgrounds/sidebar/baby_yellow.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/backgrounds/sidebar/bar_blue.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/backgrounds/sidebar/bar_red.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/backgrounds/sidebar/bookclub.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/backgrounds/sidebar/campus.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/backgrounds/sidebar/celeb_blue.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/backgrounds/sidebar/celeb_orange.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/backgrounds/sidebar/celtic.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/backgrounds/sidebar/chat.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/backgrounds/sidebar/computer.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/backgrounds/sidebar/computers.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/backgrounds/sidebar/daisies.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/backgrounds/sidebar/entertainment.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/backgrounds/sidebar/etrade.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/backgrounds/sidebar/family.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/backgrounds/sidebar/flowers.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/backgrounds/sidebar/generic_blue.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/backgrounds/sidebar/generic_tan.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/backgrounds/sidebar/greendots.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/backgrounds/sidebar/greenlines.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/backgrounds/sidebar/health.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/backgrounds/sidebar/hobby_blue.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/backgrounds/sidebar/hobby_tan.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/backgrounds/sidebar/home_blue.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/backgrounds/sidebar/home_yellow.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/backgrounds/sidebar/journal.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/backgrounds/sidebar/leaves.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/backgrounds/sidebar/money.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/backgrounds/sidebar/people.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/backgrounds/sidebar/personal.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/backgrounds/sidebar/recipe.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/backgrounds/sidebar/resume.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/backgrounds/sidebar/rockmargin.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/backgrounds/sidebar/shells.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/backgrounds/sidebar/shop.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/backgrounds/sidebar/society.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/backgrounds/sidebar/spiralbinder.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/backgrounds/sidebar/spiraledge.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/backgrounds/sidebar/sports_blue.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/backgrounds/sidebar/sports_green.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/backgrounds/sidebar/tile.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/backgrounds/sidebar/travel.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/backgrounds/sidebar/wed_green.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/backgrounds/sidebar/wed_pink.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/backgrounds/sidebar/wedding.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/backgrounds/tile/bumpywall.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/backgrounds/tile/crane.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/backgrounds/tile/escher_birds.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/backgrounds/tile/escher_reptiles.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/backgrounds/tile/forest.jpg">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/backgrounds/tile/marble.jpg">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/backgrounds/tile/sky_blue.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/backgrounds/tile/sky_gray.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/backgrounds/tile/techie_disks.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/backgrounds/tile/techie_numbers.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/bullets/arrows/plain_black_left.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/bullets/arrows/plain_black_right.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/bullets/arrows/plain_blue_left.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/bullets/arrows/plain_blue_right.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/bullets/arrows/plain_green_left.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/bullets/arrows/plain_green_right.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/bullets/arrows/plain_orange_left.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/bullets/arrows/plain_orange_right.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/bullets/arrows/plain_pink_left.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/bullets/arrows/plain_pink_right.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/bullets/arrows/plain_tan_left.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/bullets/arrows/plain_tan_right.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/bullets/classic_large.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/bullets/classic_small.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/bullets/coinLeft.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/bullets/coinLeftSmall.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/bullets/coinRight.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/bullets/coinRightSmall.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/bullets/diamonds/diamond1_black.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/bullets/diamonds/diamond1_blue.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/bullets/diamonds/diamond1_blue_aqua.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/bullets/diamonds/diamond1_blue_gray.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/bullets/diamonds/diamond1_blue_navy.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/bullets/diamonds/diamond1_brown.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/bullets/diamonds/diamond1_gray.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/bullets/diamonds/diamond1_gray_silver.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/bullets/diamonds/diamond1_green.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/bullets/diamonds/diamond1_green_lime.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/bullets/diamonds/diamond1_olive.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/bullets/diamonds/diamond1_olive_dark.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/bullets/diamonds/diamond1_orange.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/bullets/diamonds/diamond1_purple.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/bullets/diamonds/diamond1_red.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/bullets/diamonds/diamond1_red_maroon.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/bullets/diamonds/diamond1_teal.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/bullets/diamonds/diamond1_violet.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/bullets/diamonds/diamond1_violet_fuchsia.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/bullets/diamonds/diamond1_white.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/bullets/diamonds/diamond1_yellow.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/bullets/diamonds/diamond2_black.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/bullets/diamonds/diamond2_blue.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/bullets/diamonds/diamond2_blue_aqua.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/bullets/diamonds/diamond2_blue_gray.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/bullets/diamonds/diamond2_blue_navy.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/bullets/diamonds/diamond2_brown.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/bullets/diamonds/diamond2_gray.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/bullets/diamonds/diamond2_gray_silver.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/bullets/diamonds/diamond2_green.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/bullets/diamonds/diamond2_green_lime.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/bullets/diamonds/diamond2_olive.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/bullets/diamonds/diamond2_olive_dark.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/bullets/diamonds/diamond2_orange.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/bullets/diamonds/diamond2_purple.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/bullets/diamonds/diamond2_red.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/bullets/diamonds/diamond2_red_maroon.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/bullets/diamonds/diamond2_teal.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/bullets/diamonds/diamond2_violet.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/bullets/diamonds/diamond2_violet_fuchsia.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/bullets/diamonds/diamond2_white.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/bullets/diamonds/diamond2_yellow.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/bullets/diamonds/diamonds_black.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/bullets/diamonds/diamonds_blue.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/bullets/diamonds/diamonds_blue_aqua.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/bullets/diamonds/diamonds_blue_gray.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/bullets/diamonds/diamonds_blue_navy.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/bullets/diamonds/diamonds_brown.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/bullets/diamonds/diamonds_gray.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/bullets/diamonds/diamonds_gray_silver.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/bullets/diamonds/diamonds_green.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/bullets/diamonds/diamonds_green_lime.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/bullets/diamonds/diamonds_olive.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/bullets/diamonds/diamonds_olive_dark.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/bullets/diamonds/diamonds_orange.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/bullets/diamonds/diamonds_purple.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/bullets/diamonds/diamonds_red.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/bullets/diamonds/diamonds_red_maroon.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/bullets/diamonds/diamonds_teal.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/bullets/diamonds/diamonds_violet.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/bullets/diamonds/diamonds_violet_fuchsia.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/bullets/diamonds/diamonds_white.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/bullets/diamonds/diamonds_yellow.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/bullets/fax_black.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/bullets/fax_blue.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/bullets/keyboard_black.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/bullets/keyboard_blue.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/bullets/mailbox_black.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/bullets/mailbox_blue.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/bullets/mouse_black.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/bullets/mouse_blue.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/bullets/numbers/circle_black_00.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/bullets/numbers/circle_black_01.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/bullets/numbers/circle_black_02.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/bullets/numbers/circle_black_03.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/bullets/numbers/circle_black_04.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/bullets/numbers/circle_black_05.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/bullets/numbers/circle_black_06.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/bullets/numbers/circle_black_07.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/bullets/numbers/circle_black_08.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/bullets/numbers/circle_black_09.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/bullets/numbers/circle_black_10.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/bullets/numbers/circle_blue_00.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/bullets/numbers/circle_blue_01.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/bullets/numbers/circle_blue_02.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/bullets/numbers/circle_blue_03.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/bullets/numbers/circle_blue_04.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/bullets/numbers/circle_blue_05.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/bullets/numbers/circle_blue_06.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/bullets/numbers/circle_blue_07.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/bullets/numbers/circle_blue_08.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/bullets/numbers/circle_blue_09.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/bullets/numbers/circle_blue_10.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/bullets/pen_black.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/bullets/pen_blue.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/bullets/pencil_black.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/bullets/pencil_blue.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/bullets/phone2_black.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/bullets/phone2_blue.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/bullets/phone_black.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/bullets/phone_blue.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/bullets/squares/sq_black.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/bullets/squares/sq_blue.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/bullets/squares/sq_blue_aqua.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/bullets/squares/sq_blue_gray.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/bullets/squares/sq_blue_navy.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/bullets/squares/sq_blue_small.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/bullets/squares/sq_brown.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/bullets/squares/sq_gray.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/bullets/squares/sq_gray_silver.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/bullets/squares/sq_green.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/bullets/squares/sq_green_lime.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/bullets/squares/sq_green_small.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/bullets/squares/sq_olive.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/bullets/squares/sq_olive_dark.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/bullets/squares/sq_orange.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/bullets/squares/sq_pink_small.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/bullets/squares/sq_purple.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/bullets/squares/sq_red.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/bullets/squares/sq_red_maroon.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/bullets/squares/sq_teal.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/bullets/squares/sq_violet.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/bullets/squares/sq_violet_fuchsia.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/bullets/squares/sq_white.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/bullets/squares/sq_yellow.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/bullets/squares/sq_yellow_small.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/buttons/store/bag_blue_01.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/buttons/store/bag_blue_02.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/buttons/store/bag_blue_03.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/buttons/store/cart.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/buttons/store/cart_rgb_01.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/buttons/store/cart_rgb_02.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/buttons/store/cart_rgb_03.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/buttons/themes/beam/active.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/buttons/themes/beam/inactive.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/buttons/themes/beam/mouseOver.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/buttons/themes/beam/purple.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/buttons/themes/beam/silver.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/buttons/themes/beam/yellow.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/buttons/themes/blue/active.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/buttons/themes/blue/inactive.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/buttons/themes/blue/mouseOver.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/buttons/themes/bubble/active.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/buttons/themes/bubble/inactive.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/buttons/themes/bubble/mouseOver.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/buttons/themes/bubble/purple.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/buttons/themes/bubble/silver.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/buttons/themes/bubble/yellow.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/buttons/themes/designer1/active.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/buttons/themes/designer1/inactive.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/buttons/themes/designer1/mouseOver.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/buttons/themes/designer2/active.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/buttons/themes/designer2/inactive.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/buttons/themes/designer2/mouseOver.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/buttons/themes/designer3/active.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/buttons/themes/designer3/inactive.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/buttons/themes/designer3/mouseOver.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/buttons/themes/forest/active.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/buttons/themes/forest/inactive.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/buttons/themes/forest/mouseOver.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/buttons/themes/gem/active.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/buttons/themes/gem/inactive.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/buttons/themes/gem/mouseOver.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/buttons/themes/gem/purple.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/buttons/themes/gem/silver.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/buttons/themes/gem/yellow.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/buttons/themes/glow/active.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/buttons/themes/glow/inactive.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/buttons/themes/glow/mouseOver.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/buttons/themes/gray/active.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/buttons/themes/gray/inactive.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/buttons/themes/gray/mouseOver.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/buttons/themes/jazzy/active.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/buttons/themes/jazzy/inactive.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/buttons/themes/jazzy/mouseOver.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/buttons/themes/jelly/active.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/buttons/themes/jelly/inactive.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/buttons/themes/jelly/mouseOver.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/buttons/themes/jelly/purple.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/buttons/themes/jelly/silver.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/buttons/themes/jelly/yellow.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/buttons/themes/modern/active.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/buttons/themes/modern/inactive.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/buttons/themes/modern/mouseOver.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/buttons/themes/pencil/active.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/buttons/themes/pencil/inactive.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/buttons/themes/pencil/mouseOver.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/buttons/themes/pencil/pencil-left-dark.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/buttons/themes/pencil/pencil-right-dark.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/buttons/themes/pencil/pencil-right-light.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/buttons/themes/pillbox/active.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/buttons/themes/pillbox/inactive.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/buttons/themes/pillbox/mouseOver.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/buttons/themes/round/active.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/buttons/themes/round/inactive.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/buttons/themes/round/mouseOver.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/buttons/themes/round/purple.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/buttons/themes/round/silver.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/buttons/themes/round/yellow.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/buttons/themes/simple/active.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/buttons/themes/simple/inactive.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/buttons/themes/simple/mouseOver.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/buttons/themes/sleek/active.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/buttons/themes/sleek/inactive.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/buttons/themes/sleek/mouseOver.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/buttons/themes/splat/active.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/buttons/themes/splat/inactive.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/buttons/themes/splat/mouseOver.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/buttons/themes/splat/purple.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/buttons/themes/splat/silver.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/buttons/themes/splat/yellow.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/buttons/themes/stone/active.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/buttons/themes/stone/inactive.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/buttons/themes/stone/mouseOver.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/buttons/themes/stone/purple.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/buttons/themes/stone/silver.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/buttons/themes/stone/yellow.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/buttons/themes/view-display/active.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/buttons/themes/view-display/inactive.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/buttons/themes/view-display/mouseOver.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/buttons/themes/view-display/purple.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/buttons/themes/view-display/silver.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/buttons/themes/view-display/yellow.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/buttons/themes/view-screen/active.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/buttons/themes/view-screen/inactive.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/buttons/themes/view-screen/mouseOver.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/buttons/themes/view-screen/purple.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/buttons/themes/view-screen/silver.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/buttons/themes/view-screen/yellow.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/buttons/themes/wood/active.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/buttons/themes/wood/inactive.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/buttons/themes/wood/mouseOver.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/images/general/computer_data.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/images/general/deco_circles.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/images/general/deco_squares.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/images/general/stickfigure.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/lines/horizontal/black_title_gold.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/lines/horizontal/black_title_gray.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/lines/horizontal/celtic.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/lines/horizontal/dashes.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/lines/horizontal/deepblue.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/lines/horizontal/dots_green.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/lines/horizontal/dots_orange.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/lines/horizontal/gold_sign.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/lines/horizontal/grayline.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/lines/horizontal/light_blue.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/lines/horizontal/marble.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/lines/horizontal/marble_gold.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/lines/horizontal/orange_red.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/lines/horizontal/rose_line.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/lines/horizontal/roses_line.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/lines/horizontal/short_black.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/lines/horizontal/yellow_back.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/lines/vertical/Light_blue.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/lines/vertical/Marble.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/lines/vertical/Marble_gold.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/lines/vertical/Orange_red.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/lines/vertical/celtic.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/lines/vertical/dashes.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/lines/vertical/deepblue.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/lines/vertical/dots_green.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/lines/vertical/dots_orange.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/lines/vertical/gold_sign.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/lines/vertical/grayline.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/lines/vertical/rose_line.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/lines/vertical/roses_bar.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/lines/vertical/short_black.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/lines/vertical/yellow_back.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/photos/business/computers.jpg">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/photos/business/gear.jpg">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/photos/business/gears_small.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/photos/business/keyboard.jpg">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/photos/business/lightbulb.jpg">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/photos/business/package.jpg">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/photos/business/world_in_hand.jpg">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/sitebuilder/images/c.gif">
+  </asset>
+  <asset id="%VirtualLocalSoundAsset:/sounds/chinarose.mid">
+  </asset>
+  <asset id="%VirtualLocalSoundAsset:/sounds/furelise.mid">
+  </asset>
+  <asset id="%VirtualLocalSoundAsset:/sounds/hitchcock.mid">
+  </asset>
+  <asset id="%VirtualLocalSoundAsset:/sounds/icecream.mid">
+  </asset>
+  <asset id="%VirtualLocalSoundAsset:/sounds/maple.mid">
+  </asset>
+  <asset id="%VirtualLocalSoundAsset:/sounds/mellow.mid">
+  </asset>
+  <asset id="%VirtualLocalSoundAsset:/sounds/mozart.mid">
+  </asset>
+  <asset id="%VirtualLocalSoundAsset:/sounds/odetojoy.mid">
+  </asset>
+  <asset id="%VirtualLocalSoundAsset:/sounds/pomp.mid">
+  </asset>
+  <asset id="%VirtualLocalSoundAsset:/sounds/tender.mid">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/backgrounds/sidebar/blueGradientTexture.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/bullets/squares/lightBlue.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/buttons/blank/lightBlueSquare.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/images/frames/blueSleekFrame_Blank.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/images/frames/blueSleekFrame_Computer.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/images/frames/blueSleekFrame_Hands.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/pageHeaders/blueBusiness.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/backgrounds/sidebar/blueSquareWithLines.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/bullets/arrows/blueArrowRight.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/buttons/blank/blueArrowSquare.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/pageHeaders/blueGraphicalMontage.jpg">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/backgrounds/sidebar/grayVertLines.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/bullets/squares/redCircleSquare.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/images/redKeyboard.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/pageHeaders/redHardware.gif">
+  </asset>
+  <asset id="%VirtualLocalDirectoryAsset:/clipart/buttons/themes/trapezoid_red">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/backgrounds/tile/linesThin_gray.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/bullets/arrows/redArrow_right.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/buttons/themes/trapezoid_red/active.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/buttons/themes/trapezoid_red/inactive.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/buttons/themes/trapezoid_red/mouseOver.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/images/sidebars/contentBoxLeft_red.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/pageHeaders/buildingExteriorLines_red.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/bullets/crayonRedStar.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/buttons/blank/YellowStarOnOrange.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/images/crayonBlueHouse.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/images/crayonOrangeFlower.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/images/crayonRedDog.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/images/crayonYellowStarOnOrange.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/images/frames/crayonBlueTextBackground.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/pageHeaders/crayonYellowGreenOrange.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/bullets/squareBullet_grey.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/buttons/blank/beveledButton_grey.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/images/frames/getInfo_button.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/images/frames/product_cell.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/images/greyDottedGrid.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/images/yourProductHere_camcorder.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/images/yourProductHere_dvd.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/images/yourProductHere_tv.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/images/yourProductHere_vcr.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/lines/horizontal/greenOnGrey1.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/lines/horizontal/greenOnGrey2.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/pageHeaders/grayGreenDottedGrid.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/bullets/whiteDotsOnGrey.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/buttons/blank/backPiece_black.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/buttons/blank/backPiece_red.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/buttons/blank/whiteDotsOnRed.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/images/sidebars/grayDotTexture.jpg">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/images/whiteDotDividerLeft.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/images/whiteDotDividerRight.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/pageHeaders/spotLightMontage.jpg">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/bullets/greenCrossRedDot.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/buttons/blank/GreenCrossOnWhite.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/pageHeaders/buildingFacadeGreenMaroon.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/pageHeaders/buildingFacadeGreenMaroon2.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/photos/objects/exteriorWallPiece.jpg">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/photos/objects/exteriorWallPieceSquare.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/bullets/petalPink.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/buttons/blank/pinkSquare.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/images/flowerVase.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/pageHeaders/flowerRedBlurred.jpg">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/photos/flowerRedBlurred.jpg">
+  </asset>
+  <asset id="%VirtualLocalDirectoryAsset:/clipart/buttons/themes/chrome_teal">
+  </asset>
+  <asset id="%VirtualLocalDirectoryAsset:/clipart/images/sponsors">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/bullets/blueGlassCircle.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/buttons/themes/chrome_teal/active.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/buttons/themes/chrome_teal/inactive.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/buttons/themes/chrome_teal/mouseOver.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/images/frames/chromeTabletBlue.jpg">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/images/sponsors/hotjobs_transparent.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/pageHeaders/chromeMastheadBlue.jpg">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/backgrounds/fullpage/windows_background.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/bullets/blackArrow_bullet.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/images/frames/orangeBoxBlackBorder.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/images/sidebars/metalRivetsDown.jpg">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/images/sidebars/orangeNavigationSigns.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/pageHeaders/metalRivets.jpg">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/backgrounds/sidebar/yellowCircleBack.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/bullets/blueCircle.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/buttons/blank/yellowGoldButton.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/pageHeaders/furnitureMontage_yellow.jpg">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/photos/objects/blueCafeChair.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/backgrounds/sidebar/beighStripes.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/bullets/doubleLine_bullet.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/buttons/blank/redArtDeco.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/buttons/blank/redWithWhiteStripes.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/lines/horizontal/beigh_line.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/pageHeaders/referenceBookRed.jpg">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/backgrounds/sidebar/blueLines_background.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/bullets/orange_cornerBullet.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/buttons/blank/white_button.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/lines/horizontal/grey_subjectFooter.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/lines/horizontal/orangeShortThickLine.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/lines/horizontal/orange_subjectHeader.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/pageHeaders/blueGreyLines.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/backgrounds/fullpage/whiteOnBlueBkgnd.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/bullets/plus_white.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/images/medicalSymbol.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/pageHeaders/blueBoxes.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/bullets/arrowDownLeft.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/bullets/arrowDownLeft_small.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/buttons/blank/arrowLeftEnd.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/images/downloadSong.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/images/greenListenGraphic.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/lines/horizontal/greenTopBar.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/pageHeaders/greenMontage.jpg">
+  </asset>
+  <asset id="%VirtualLocalDirectoryAsset:/clipart/buttons/themes/split_blue">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/backgrounds/sidebar/dotsLarge_blue.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/bullets/dotsBigSmall_blue.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/buttons/themes/split_blue/active.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/buttons/themes/split_blue/inactive.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/buttons/themes/split_blue/mouseOver.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/images/general/sample_family.jpg">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/images/general/sample_foosball.jpg">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/images/general/sample_mia.jpg">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/images/general/sample_traci_yan.jpg">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/images/general/sample_veena_vadim.jpg">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/images/general/sample_veena_yan.jpg">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/pageHeaders/dotsKeyboardblue.jpg">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/backgrounds/sidebar/blueprint_background.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/bullets/beige_bullet.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/buttons/blank/blue_button.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/images/houseFPO_photo.jpg">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/pageHeaders/blueHouse.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/photos/HouseFrontDoor.jpg">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/backgrounds/tile/textured_white.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/bullets/smallSun.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/buttons/blank/tab_yellow.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/images/sidebars/cloudWisp.jpg">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/pageHeaders/clioudSunRays.jpg">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/bullets/arrows/tealRightArrow.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/buttons/blank/tealGenetic.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/images/sidebars/grayScienceLeftBox.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/images/sidebars/grayScienceRightBox.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/pageHeaders/tealGenetic.jpg">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/backgrounds/sidebar/orangeBlueRight.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/bullets/blue_O.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/bullets/blue_X.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/images/footballMontage.jpg">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/images/frames/gray_infoBox.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/pageHeaders/blueFootball.jpg">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/backgrounds/sidebar/yellowPlanes.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/bullets/redSuitcase.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/buttons/blank/planeRedPointLeft.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/buttons/blank/planeRedPointRight.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/images/sidebars/redBeveledEdges.gif">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/images/yellowTravelHarbor.jpg">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/pageHeaders/picturePostcardBlack.jpg">
+  </asset>
+</site>

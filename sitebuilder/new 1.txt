@@ -1,0 +1,67 @@
+
+SH 200
+HD
+LED
+
+
+
+Salient Features
+<li>Smart charts with ranfom display finction for all optotypes</li>
+<li>1% Contrast sensitivity adjustment for all optotypes</li>
+<li>Adaptable to smaller rooms with precise adjustment for distance</li>
+<li>External USB port for viewing your own images and videos</li>
+<li>2 Min. Speedy refraction using the 4 navigation keys</li>
+<li>160+ Patient education charts for various eye diseases</li>
+<li>60+ HD videos for patient education</li>
+<li>Extensive display models for optotypes</li>
+<li>Reverse mode for all charts</li>
+<li>External 3.5mm audio jack for audio out</li>
+<li>Compensation for red green filter</li>
+<li>Feather touch remote control with direct commands for all tests</li>
+<li>No moving parts</li>
+
+
+
+
+
+
+<li>22" LED Display</li>
+<li>200 cd/m2</li>
+<li>Infrared</li>
+<li>2m ~ 6m</li>
+<li>Audio, USB</li>
+<li>110-239 VAC, 50/60Hz</li>
+<li>35W</li>
+<li>4.2 kg</li>
+<li>4.4 kg</li>
+<li>52.5 x 33 x 6.5 cm</li>
+<li>58.5 x 42 x 14.0 cm</li>
+
+Standard Tests
+<li>Snellen</li>
+<li>Logmar</li>
+<li>Isihara (20 Plates)</li>
+<li>Maddox</li>
+<li>Worth Fur Dots</li>
+<li>Astigmatism</li>
+<li>Contrast sensitivity</li>
+<li>Duochrome</li>
+<li>Cross Cylinder</li>
+
+Figures for children
+<li>Display modeds</li>
+<li>Single character</li>
+<li>Single line</li>
+<li>Single column</li>
+<li>Black in white</li>
+<li>Multi Line</li>
+
+Optotypes
+<li>Sloan Letters</li>
+<li>Numbers</li>
+<li>Tumbling E</li>
+<li>Landolt Rings</li>
+
+
+
+
