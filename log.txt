@@ -1,0 +1,17 @@
+[33mcommit f890ed4dbc0c98b9f899f0afa37596ee1f55ef27[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: luisin76 <luis.c.flores@gmail.com>
+Date:   Tue Nov 9 17:43:29 2021 -0600
+
+    Edit auto-refractors and visual acuity systems
+
+[33mcommit e478e5bb0e9dca8b8c31207578fbbe31e80d43d6[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: luisin76 <luis.c.flores@gmail.com>
+Date:   Tue Nov 9 17:24:30 2021 -0600
+
+    updated index, auto refractors and vacs - renamed arsliders
+
+[33mcommit 355755f90928ce6f33b370e5a399e9f9bfa63673[m
+Author: luisin76 <luis.c.flores@gmail.com>
+Date:   Tue Nov 9 16:27:30 2021 -0600
+
+    commiting after a long time
