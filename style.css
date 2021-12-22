@@ -403,7 +403,17 @@
 
 }
 
-/*-----Phoropter Service-----*/
+/*-----product-specification-images-----*/
+.product-specification-images {
+    display: flex;
+    align-items: center;
+    margin: 5%;
+  }
+.product-specification-images img {
+  flex: 1;
+}
+
+
 
 /* -----Phoropter image ----- */
 .landing-image {
