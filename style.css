@@ -1421,7 +1421,7 @@ background-color: #555;
 }
 .product-flex-item{
   max-width: 90%;
-  flex: 1;
+  /* flex: 1; */
 }
 #ark-8500 {
   max-width: 99%;
@@ -1450,7 +1450,7 @@ background-color: #555;
   gap: 1em;
 } */
 .short-button { 
-  min height: 5em;
+  min-height: 5em;
 }
 .product-image-carousel {
   max-width: 95%;
@@ -1666,7 +1666,7 @@ font-family: Arial, Helvetica, sans-serif;
   min-height:  8em;
 }
 
-
+}
 
 
 
