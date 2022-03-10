@@ -18,6 +18,22 @@ Agregar Topcon KR-800 Autorefractor  -  ✅
 
 Topcon SL-2G LED   - Slit Lamp  ✅
 
-Poner tambien la Luxvision SL-1100   $ 4,695
+Poner tambien la Luxvision SL-1100   $ 4,695  ✅
 
-Cambiarle el precio a la Luxvision SL-1400 a $ 5,495
+Cambiarle el precio a la Luxvision SL-1400 a $ 5,495  ✅
+
+
+///////////////////////////////////////////////////////////
+
+
+Luxvision SL-1100 de USO.   $ 4,600 Free shipping  --  ✅
+
+*** Tambien todas las de USO free shipping
+
+El Stand Reliance 7900IC  --  ✅
+
+Marco chair Bravo, ✅
+
+Marco Encore manual y Marco Encore Auto. ✅
+
+Las 2 Marco chairs  las  puedes poner en el mismo plano horizontal con pequeña descripcion abajo
