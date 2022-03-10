@@ -1439,7 +1439,6 @@ color: #008daa;
 .product-flex-item {
   width: 60%;
   /* flex: 1; */
-  border:  1px solid red;
 }
 #ark-8500 {
   max-width: 99%;
