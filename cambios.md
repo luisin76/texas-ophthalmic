@@ -36,4 +36,4 @@ Marco chair Bravo, ✅
 
 Marco Encore manual y Marco Encore Auto. ✅
 
-Las 2 Marco chairs  las  puedes poner en el mismo plano horizontal con pequeña descripcion abajo
+Actualizar costo de envio en pagina de Phoropter cleaning ✅
