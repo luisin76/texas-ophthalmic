@@ -512,6 +512,7 @@ v* {
   font-weight: bold;
   color: #008daa;
   overflow: visible;
+
 }
 .product-title a {
   text-decoration: underline;
@@ -534,6 +535,9 @@ v* {
   align-items: center;
   margin: 4% auto;
 }
+/* .product-flex-item {
+  border: 1px solid red;
+} */
 .product-flex-item,
 .pfi-description p ul li {
   padding: 2%;
@@ -642,22 +646,22 @@ v* {
   min-width: none;
   min-height: none;
   overflow: visible;
-
 }
 .other-product-wrapper {
-  min-width: 90%;
-  height: 38em;
+  max-width: 80%;
+  height: 30em;
   margin: 5% auto;
   display: flex;
+  flex-direction: row;
   align-items: center;
-  justify-content: space-between;
+  justify-content: space-evenly;
 }
 .other-product-flex-item {
   max-width: 95%;
-  height: 100%;
+  height: 80%;
   display: flex;
   flex-direction: column;
-  justify-content: space-around;
+  justify-content: space-evenly ;
   align-items: center;
   flex: 1;
 }
@@ -665,7 +669,7 @@ v* {
   margin: 5% auto;
   text-align: center;
   font-family: 'Open Sans', sans-serif;
-  font-size: 2em;
+  font-size: 1.5 em;
   color: #008daa;
 }
 .other-product-flex-item h2 span {
@@ -726,6 +730,7 @@ v* {
   height: 45px;
   margin: 4% auto;
   background-color: #334257;
+
 }
 .warranty h2 {
   font-size: 24px;
@@ -1207,6 +1212,7 @@ form .form-control-submit:hover {
   margin: 2em auto;
 }
 .flex-item-inner {
+  min-width: 100%;
   display: flex;
   align-items: center;
   justify-content: space-evenly;
@@ -1302,7 +1308,7 @@ font-family: Arial, Helvetica, sans-serif;
 color: #008daa;
 }
 
-/* --- Narrow Style --- */
+/* ---   Style --- */
 
 @media screen and (max-width: 1400px) {
 .topnav a:first-child {
@@ -1375,8 +1381,6 @@ color: #008daa;
   min-height: 5em;
   color: crimson;
 }
-
-
 .services-title-square {
   min-width: 50%;
 }
@@ -1401,7 +1405,6 @@ color: #008daa;
 .pho-ser-main-inner #free-shipping {
   min-height: 3em;
 }
-
 .menu-flex-container {
   flex-direction: column;
 }
@@ -1438,10 +1441,10 @@ color: #008daa;
 }
 .product-flex-item {
   width: 60%;
-  /* flex: 1; */
 }
 #ark-8500 {
-  max-width: 99%;
+  max-width: 75%;
+  margin-left: 11%;
 }
 .pfi-image {
   align-self: baseline;
@@ -1459,13 +1462,6 @@ color: #008daa;
   height: 2em;
   font-size: 1.5em;
 }
-/* .product-title {
-  display: flex;
-  flex-direction: column;
-  justify-content: space-evenly;
-  align-items: center;
-  gap: 1em;
-} */
 .short-button { 
   min-height: 5em;
 }
@@ -1484,28 +1480,25 @@ color: #008daa;
   min-height: 50%;
   margin: 5% auto;
   min-width:  99%;
-
 }
 .order-button {
   margin: 5% auto;
   min-height: 2em;
 }
-.other-product-wrapper {
-  flex-direction: column;
-  min-height: 280vh;
-}
-.other-product-flex-item {
-  max-height: 50%;
-  /* flex: .3; */
-}
-
 .other-product-flex-item > .pfi-price > h2 {
   height: 1em;  
   padding: 0%;
   margin: 0;
 }
+.single-item-price {
+  display: flex;
+  flex-direction: column;
+}
+.pfi-price {
+  min-height: 2 em;
+}
 .pfi-price h2 {
-  min-height: 2.5em;
+  min-height: 1 em;
 }
 .pfi-price>.order-button {
   height: 90px;
@@ -1529,12 +1522,8 @@ color: #008daa;
   min-width: 95%;
 }
 .separator-collage {
-  /* display: none; */
   flex-wrap: wrap;
 }
-/* .do-it-right {
-  margin-top: 4%;
-} */
 #except-divide {
   margin-top: 40%;
 }
@@ -1548,7 +1537,9 @@ color: #008daa;
 }
 .phoropter-cleaning-img {
   overflow: visible;
-}
+  min-width: 90%;
+  margin: auto;
+ }
 .promo-wrapper {
   min-height: 10vh;
 }
@@ -1601,7 +1592,9 @@ font-family: Arial, Helvetica, sans-serif;
   gap: 1em;
 }
 .flex-container-inner {
-  max-width: 97%;
+  min-width: 350px;
+  padding-right: 15%;
+  margin: none;
 }
 .flex-item-inner {
   min-width: 95%;
@@ -1630,14 +1623,13 @@ font-family: Arial, Helvetica, sans-serif;
 .products img {
   max-width: 80%;
 }
-
-.products-wrapper {
+.product-wrapper {
   flex-direction: column;
   align-items: center;
   justify-content: unset;
   gap: 1em;
+  min-height:  80vh;
 }
-
 .card-logos {
   max-width: 90%;
   flex-direction: column;
@@ -1648,9 +1640,6 @@ font-family: Arial, Helvetica, sans-serif;
 #credit-card-logos img {
   max-height: 80px;
 }
-
-
-
 .center-text {
   text-align: center;
 }
@@ -1674,13 +1663,8 @@ font-family: Arial, Helvetica, sans-serif;
 .product-flex-item video {
   width: 100%;
 }
-
-.single-item-flex{
-  min-height: 11em;
-}
-.single-item-img {
-  margin-top: -20%;
-  min-height:  8em;
+.product-flex-item  {
+  width: 100%;
 }
 
 /* --- Free Shipping Banner */
@@ -1688,28 +1672,54 @@ font-family: Arial, Helvetica, sans-serif;
   padding: 0%;
   margin: auto;
   width: 35%;
-  
+}
+.phoropter-repair-options {
+  min-width: 100%;
+}
+.top-wrapper {
+  min-height:  55em;
+}
+.separator-collage{
+  margin-top: 2%;
+  min-height: 20em;
+}
+#except-divide {
+  margin-top: 10%;
+}
+/* --- single item styling --- */
+
+.other-product-wrapper {
+  flex-direction: column;
+  min-height: 140vh;
+  margin-top: 35%;
+}
+.other-product-flex-item {
+  display: flex;
+  flex-direction: column;
+  /* min-height: 45vh; */
+  justify-content: space-evenly;
+  align-items: center;
+}
+.single-item-flex{
+  max-height: 11em;
+
+}
+.single-item-img {
+  margin: auto;
+  min-height:  18em;
+}
+
+.warranty {
+  height: 90px;
+
 }
 
 
 
 
-}
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+}      /* --- closing bracket for narrow styling --- do not delete --- */
 
 
 /* ----- Image Slider */
