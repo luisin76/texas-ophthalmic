@@ -1296,9 +1296,11 @@ background-color: #555;
 
 /* --- Free Shipping Banner */
 .shipping-logo {
-  max-width: 50%;
-  padding-left: 18%;
-  margin: 5% auto 5% auto;
+  width:  137px;
+  margin: 10% auto 5% auto;
+}
+.shipping-logo img {
+  margin:  auto;
 }
 
 /* --- Single Description --- */
@@ -1668,11 +1670,11 @@ font-family: Arial, Helvetica, sans-serif;
 }
 
 /* --- Free Shipping Banner */
-.shipping-logo {
+/* .shipping-logo {
   padding: 0%;
   margin: auto;
   width: 35%;
-}
+} */
 .phoropter-repair-options {
   min-width: 100%;
 }
