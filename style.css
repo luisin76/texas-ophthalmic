@@ -600,7 +600,7 @@
 }
 .pfi-price {
   max-height: 20em;
-  max-width: 50em;
+  
   margin: auto;
   display: flex;
   gap: 2em;
@@ -1550,8 +1550,10 @@ flex: .5;
   text-align: center;
   height: 100%;
   margin: 5% auto;
-  min-width:  99%;
+  width:  99%;
+
 }
+
 .order-button {
   margin: 5% auto;
   min-height: 2em;
@@ -1565,9 +1567,7 @@ flex: .5;
   display: flex;
   flex-direction: column;
 }
-.pfi-price {
-  min-height: 3em;
-}
+
 .pfi-price h2 {
   min-height: 3em;
 }
