@@ -588,6 +588,8 @@
   color: #005a6d;
 }
 .product-flex-item img {
+  display: flex;
+  align-self: center;
   width: 80%;
   height: 100%;
   margin:  auto;
@@ -1241,7 +1243,10 @@ form .form-control-submit:hover {
   list-style: none;
 }
 .flex-item-inner h3 {
-  padding-left: 22%;
+  display: flex;
+  align-self: center;
+  padding: 5%;
+  text-align: center;
 }
 
 /* -----card-logos----- */
@@ -1652,15 +1657,20 @@ font-family: Arial, Helvetica, sans-serif;
   gap: 1em;
 }
 .flex-container-inner {
-  min-width: 350px;
-  padding-right: 15%;
+  min-width: 90%;
   margin: none;
 }
 .flex-item-inner {
+  display: flex;
+  align-self: center;
   min-width: 95%;
   font-size: .82em;
-  text-align: left ;
+  text-align: center ;
   justify-content: space-evenly;
+}
+.flex-item-inner h3 {
+  display: flex;
+  align-self: center;
 }
 .page-title {
   min-height: 5em;
