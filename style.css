@@ -1545,7 +1545,11 @@ flex: .5;
   overflow: visible;
 }
 .pfi-price {
-  min-height: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  text-align: center;
+  height: 100%;
   margin: 5% auto;
   min-width:  99%;
 }
@@ -1566,7 +1570,7 @@ flex: .5;
   min-height: 2 em;
 }
 .pfi-price h2 {
-  min-height: 1 em;
+  min-height: 3em;
 }
 .pfi-price>.order-button {
   height: 90px;
@@ -1707,7 +1711,7 @@ font-family: Arial, Helvetica, sans-serif;
   align-items: center;
   justify-content: unset;
   gap: 1em;
-  min-height:  80vh;
+  min-height:  90vh;
 }
 .card-logos {
   max-width: 90%;
