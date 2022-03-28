@@ -645,25 +645,25 @@
 .product-image-carousel {
   position: relative;
   margin: 5% auto 0 auto;
-  width: 90%;
+  width: 80%;
   display: flex;
-  min-height: 14em;
+  min-height: 15em;
   flex-direction: row;
   justify-content: space-around;
-  overflow: visible;
+  overflow: hidden;
 }
 .product-img img {
   transition: all .5s ease-in-out;
   overflow: visible;
-  min-width: 5em;
-  max-height: 10em;
+  min-width: 10em;
+  max-height: 15em;
 
 }
-.product-img img:hover {
+.product-img:hover {
   transform: scale(2);
-  min-width: none;
-  min-height: none;
-  overflow: visible;
+  min-width: 5em;
+  min-height: 10em;
+  overflow: hidden;
 }
 .other-product-wrapper {
   max-width: 80%;
@@ -676,7 +676,7 @@
 }
 .other-product-flex-item {
   max-width: 95%;
-  height: 80%;
+  height: 100%;
   display: flex;
   flex-direction: column;
   justify-content: space-evenly ;
@@ -1520,9 +1520,10 @@ flex: .5;
   min-width: 100%;
 }
 .product-title {
-  width: 80%;
+  width: 100%;
   text-align: center;
   margin: 10% auto;
+  /* border: 1px solid blue; */
 }
 .product-title h2 {
   overflow: visible;
@@ -1550,8 +1551,7 @@ flex: .5;
   text-align: center;
   height: 100%;
   margin: 5% auto;
-  width:  99%;
-
+  width:  100%;
 }
 
 .order-button {
@@ -1569,7 +1569,7 @@ flex: .5;
 }
 
 .pfi-price h2 {
-  min-height: 3em;
+  min-height: 3.5em;
 }
 .pfi-price>.order-button {
   height: 90px;
@@ -1618,6 +1618,7 @@ flex: .5;
 .email-information h2,
 .email-information p
 {
+  margin-top: 3.5%;
   min-width: 95%;
 }
 .main-content {
@@ -1761,7 +1762,7 @@ font-family: Arial, Helvetica, sans-serif;
 }
 .separator-collage{
   margin-top: 2%;
-  min-height: 20em;
+  min-height: 27em;
 }
 #except-divide {
   margin-top: 10%;
@@ -1790,8 +1791,12 @@ font-family: Arial, Helvetica, sans-serif;
 }
 
 .warranty {
+  display: flex; 
+  align-items: center; 
   height: 90px;
-
+}
+.warranty h2 {
+  margin: auto;
 }
 
 
