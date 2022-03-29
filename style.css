@@ -584,7 +584,7 @@
 .pfi-description p {
   font-family: 'Montserrat', sans-serif;
   font-size: 18px;
-  text-align: justify;
+  text-align: left;
   color: #005a6d;
 }
 .product-flex-item img {
@@ -740,6 +740,44 @@
   font-family: 'Roboto', sans-serif;
   font-size: 1.5em;
 }
+/* --- Product Details Description ---*/
+.product-details-wrapper {
+  max-width: 90%;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  gap: 1em;
+  margin: auto;
+}
+.product-details-image {
+  min-width: 60%;
+  margin: auto;
+}
+.product-details-image img {
+  margin: auto;
+  display: flex;
+  justify-self: center;
+  align-self: center;
+  min-width: 100%;
+}
+.product-details-description {
+  min-width: 30%;
+}
+.product-details-description p {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 18px;
+  text-align: left;
+  color: #005a6d;
+  line-height: 1.8em;
+}
+.product-details-description h3 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 18px;
+  text-align: left;
+  color: #005a6d;
+}
+
+
 
 
 /*-----Warranty-----*/
@@ -1746,6 +1784,14 @@ font-family: Arial, Helvetica, sans-serif;
 .product-flex-item  {
   width: 100%;
   max-height: 100%;
+}
+
+/* --- Product Details Description ---*/
+.product-details-wrapper {
+  flex-direction: column;
+}
+.product-details-description p {
+  text-align: justify;
 }
 
 /* --- Free Shipping Banner */
