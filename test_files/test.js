@@ -1,7 +1,15 @@
-let total = 0, count = 1;
-while (count <= 10 ) {
-    total += count;
-    count ++;
-}
+const items = [
+  { name: "Bike", price: 100 },
+  { name: "TV", price: 200 },
+  { name: "Album", price: 10 },
+  { name: "Book", price: 5 },
+  { name: "Phone", price: 500 },
+  { name: "Computer", price: 1000 },
+  { name: "Keyboard", price: 25 },
+];
 
-console.log(total);
+const hasInexpensiveItems = items.every((item) => {
+  return item.price <= 1000;
+});
+e;
+console.log(hasInexpensiveItems);
