@@ -523,7 +523,6 @@ s .separator-thick {
   color: #008daa;
   overflow: visible;
   text-align: center;
-  /* border: 1px solid blue; */
 }
 .product-title a {
   text-decoration: underline;
@@ -1442,6 +1441,16 @@ footer {
     float: left;
     overflow: hidden;
   }
+  .topnav {
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    text-decoration: none;
+    font-size: 17px;
+    width: 100vw;
+  }
+
   .topnav a:first-child {
     margin-left: 0%;
   }
