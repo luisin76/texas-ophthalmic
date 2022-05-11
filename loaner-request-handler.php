@@ -10,8 +10,13 @@
         $userEmail = $_POST['email'];
         $userPhone = $_POST['phone'];
         $message = $_POST['message'];
+
+        if(preg_match('/http|www/i',$message)) {
+            $error_message .= "We do not allow a url in the comment.<br />";
+            die()
+          } 
         
-        $to = "adriana2020@texas-ophthalmic.com, admin@texas-ophthalmic.com, luiscflores@gmail.com";
+        $to = "admin@texas-ophthalmic.com, adriana2020@texas-ophthalmic.com, luiscflores@gmail.com";
 
         
         $body = "";
