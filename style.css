@@ -262,7 +262,10 @@
   padding: 1%;
   margin: 0;
 }
-
+.pre-owned img {
+  border: 1px solid #384955;
+  border-radius: 5px;
+}
 .product img {
   height: 300px;
 }
