@@ -263,11 +263,15 @@
   margin: 0;
 }
 .pre-owned img {
-  border: 1px solid #384955;
-  border-radius: 5px;
+}
+#vis-acu-sys {
+  max-width: 400px;
+  max-height: 200px;
 }
 .product img {
   height: 300px;
+  border-radius: 5px;
+  border: 1.5px solid #36454f;
 }
 .product p {
   padding: 0;
