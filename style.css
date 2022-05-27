@@ -1096,7 +1096,7 @@ s .separator-thick {
 /*----Loaner Reques-----*/
 
 .loaner-request-form {
-  width: 80%;
+  width: 90%;
   margin: 4% auto;
   display: flex;
   flex-direction: row-reverse;
@@ -1104,7 +1104,7 @@ s .separator-thick {
   justify-content: space-evenly;
 }
 .loaner-request-box {
-  width: 50%;
+  width: 60%;
   background-color: #dbdbdb;
   padding: 1%;
   font-family: "Open Sans", sans-serif;
