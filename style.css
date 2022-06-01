@@ -519,15 +519,45 @@ s .separator-thick {
   transform: rotate(-45deg);
   transform: skew(-20deg);
   position: absolute;
-  top: 30vh;
+  top: 25vh;
   left: 23vw;
 }
 .diagonal-banner p {
   font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
   text-transform: uppercase;
-  font-size: xx-large;
+  font-size: 1.5em;
   text-align: center;
   color: white;
+}
+/* --- Pre Owned Model ---*/
+.pre-owned-model {
+  position: absolute;
+  top: 40vh;
+  left: 57vw;
+  width: 15vw;
+  text-align: center;
+  color: #2c8ba9;
+  font-size: large;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+.pre-owned-model p {
+  color: #c90075;
+}
+/* --- Additional Photos ---*/
+.additional-photos {
+  min-width: 20vw;
+  max-height: 19vh;
+  position: absolute;
+  left: 22vw;
+}
+.additional-photos img {
+  width: 13em;
+}
+/* --- Single Price ---*/
+.single-price {
+  position: absolute;
+  top: 95vh;
+  left: 60vw;
 }
 /*-----Page Title-----*/
 .page-title {
@@ -601,6 +631,9 @@ s .separator-thick {
 .single-product {
   min-width: 80vw;
   margin: 5% auto;
+}
+.single-prod-separator {
+  margin-top: 15%;
 }
 #cb-2000 {
   font-family: "Montserrat", sans-serif;
@@ -1603,6 +1636,40 @@ footer {
   }
   .diagonal-banner p {
     font-size: large;
+  }
+  /* --- Pre Owned Model ---*/
+  .pre-owned-model {
+    position: absolute;
+    top: 84vh;
+    left: 5vw;
+    width: 85vw;
+    text-align: center;
+    color: #2c8ba9;
+    font-size: large;
+    font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  }
+  .pre-owned-model p {
+    color: #c90075;
+  }
+  /* --- Additional Photos ---*/
+  .additional-photos {
+    min-width: 98vw;
+    max-height: 19vh;
+    position: absolute;
+    left: 3vw;
+    margin-top: 5%;
+  }
+  .additional-photos img {
+    width: 10em;
+  }
+  .single-prod-separator {
+    margin-top: 100%;
+  }
+  /* --- Single Price ---*/
+  .single-price {
+    position: absolute;
+    top: 155vh;
+    left: 25vw;
   }
 
   #ark-8500 {
