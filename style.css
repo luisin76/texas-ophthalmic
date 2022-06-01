@@ -509,7 +509,26 @@ s .separator-thick {
   box-shadow: 8px 8px 5px #36454f;
   filter: brightness(1.2);
 }
-
+/* --- Diagonal Banner ---*/
+.diagonal-banner {
+  width: 20vw;
+  background-color: #008daa;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transform: rotate(-45deg);
+  transform: skew(-20deg);
+  position: absolute;
+  top: 30vh;
+  left: 23vw;
+}
+.diagonal-banner p {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  text-transform: uppercase;
+  font-size: xx-large;
+  text-align: center;
+  color: white;
+}
 /*-----Page Title-----*/
 .page-title {
   min-width: 50%;
@@ -579,7 +598,10 @@ s .separator-thick {
   justify-content: space-around;
   align-content: center;
 }
-
+.single-product {
+  min-width: 80vw;
+  margin: 5% auto;
+}
 #cb-2000 {
   font-family: "Montserrat", sans-serif;
   font-size: 18px;
@@ -1574,6 +1596,15 @@ footer {
     align-items: center;
     width: 60%;
   }
+  .diagonal-banner {
+    width: 80vw;
+    top: 46vh;
+    left: 10vw;
+  }
+  .diagonal-banner p {
+    font-size: large;
+  }
+
   #ark-8500 {
     max-width: 75%;
     margin-left: 11%;
