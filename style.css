@@ -520,7 +520,7 @@ s .separator-thick {
   transform: skew(-20deg);
   position: absolute;
   top: 25vh;
-  left: 23vw;
+  left: 19vw;
 }
 .diagonal-banner p {
   font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
@@ -545,20 +545,41 @@ s .separator-thick {
 }
 /* --- Additional Photos ---*/
 .additional-photos {
-  min-width: 20vw;
+  min-width: 30vw;
   max-height: 19vh;
   position: absolute;
-  left: 22vw;
+  top: 90vh;
+  left: 16vw;
 }
 .additional-photos img {
   width: 13em;
+  margin: 0 5%;
 }
 /* --- Single Price ---*/
 .single-price {
   position: absolute;
-  top: 95vh;
+  top: 90vh;
   left: 60vw;
 }
+.single-photo {
+  position: absolute;
+  height: 60vh;
+  width: auto;
+  top: 30vh;
+  left: 18vw;
+}
+.single-prod-description {
+  max-width: 28vw;
+  height: auto;
+  position: absolute;
+  top: 52vh;
+  left: 50vw;
+  font-family: "Montserrat", sans-serif;
+  font-size: 18px;
+  line-height: 22px;
+  color: #008daa;
+}
+
 /*-----Page Title-----*/
 .page-title {
   min-width: 50%;
@@ -633,7 +654,7 @@ s .separator-thick {
   margin: 5% auto;
 }
 .single-prod-separator {
-  margin-top: 15%;
+  margin-top: 40%;
 }
 #cb-2000 {
   font-family: "Montserrat", sans-serif;
@@ -1653,25 +1674,38 @@ footer {
   }
   /* --- Additional Photos ---*/
   .additional-photos {
-    min-width: 98vw;
+    min-width: 100vw;
     max-height: 19vh;
     position: absolute;
-    left: 3vw;
-    margin-top: 5%;
+    left: 0vw;
+    top: 155vh;
+    margin: 0 auto;
   }
   .additional-photos img {
     width: 10em;
+    margin: 1%;
   }
   .single-prod-separator {
-    margin-top: 100%;
+    margin-top: 330%;
   }
   /* --- Single Price ---*/
   .single-price {
     position: absolute;
-    top: 155vh;
+    top: 175vh;
     left: 25vw;
   }
-
+  .single-photo {
+    position: absolute;
+    height: 60vh;
+    width: auto;
+    top: 50vh;
+    left: 1vw;
+  }
+  .single-prod-description {
+    max-width: 95vw;
+    left: 5vw;
+    top: 110vh;
+  }
   #ark-8500 {
     max-width: 75%;
     margin-left: 11%;
