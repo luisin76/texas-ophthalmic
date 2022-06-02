@@ -509,6 +509,33 @@ s .separator-thick {
   box-shadow: 8px 8px 5px #36454f;
   filter: brightness(1.2);
 }
+  /* --- centervue flex --- */
+  .outer-centervue-flex {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+    width: 100vw;
+
+  }
+  .centervue-flex {
+    display: flex;
+    width: 100%;
+    min-height: 100vh;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+  }
+.centervue-title{
+    width: 100%;
+    font-family: "Roboto", sans-serif;
+  font-size: 2em;
+  line-height: 1.5em;
+  font-weight: bold;
+  color: #008daa;
+  overflow: visible;
+  text-align: center;
+  }
 /* --- Diagonal Banner ---*/
 .diagonal-banner {
   width: 20vw;
@@ -518,9 +545,7 @@ s .separator-thick {
   justify-content: center;
   transform: rotate(-45deg);
   transform: skew(-20deg);
-  position: absolute;
-  top: 25vh;
-  left: 19vw;
+ 
 }
 .diagonal-banner p {
   font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
@@ -531,10 +556,8 @@ s .separator-thick {
 }
 /* --- Pre Owned Model ---*/
 .pre-owned-model {
-  position: absolute;
-  top: 40vh;
-  left: 57vw;
-  width: 15vw;
+  
+  width: 50%;
   text-align: center;
   color: #2c8ba9;
   font-size: large;
@@ -545,11 +568,11 @@ s .separator-thick {
 }
 /* --- Additional Photos ---*/
 .additional-photos {
-  min-width: 30vw;
-  max-height: 19vh;
-  position: absolute;
-  top: 90vh;
-  left: 16vw;
+  min-width: 100%;
+  max-height: auto;
+  display: flex; 
+  justify-content: center;
+  align-items: center; 
 }
 .additional-photos img {
   width: 13em;
@@ -557,23 +580,16 @@ s .separator-thick {
 }
 /* --- Single Price ---*/
 .single-price {
-  position: absolute;
-  top: 90vh;
-  left: 60vw;
+ 
 }
 .single-photo {
-  position: absolute;
   height: 60vh;
   width: auto;
-  top: 30vh;
-  left: 18vw;
+
 }
 .single-prod-description {
-  max-width: 28vw;
+  max-width: 80%;
   height: auto;
-  position: absolute;
-  top: 52vh;
-  left: 50vw;
   font-family: "Montserrat", sans-serif;
   font-size: 18px;
   line-height: 22px;
@@ -654,7 +670,7 @@ s .separator-thick {
   margin: 5% auto;
 }
 .single-prod-separator {
-  margin-top: 40%;
+  margin-top: 5%;
 }
 #cb-2000 {
   font-family: "Montserrat", sans-serif;
@@ -1518,27 +1534,9 @@ footer {
   .dropbtn {
     font-size: 13px;
   }
-  .single-photo {
-    left: 13vw;
-  }
-  .additional-photos {
-    min-width: 45vw;
-    left: 10vw;
-  }
-  .product-title {
-    min-width: 45vw;
-  }
-  .pre-owned-model {
-    left: 63vw;
-  }
-  .single-prod-description {
-    left: 58vw;
-  }
-  .single-price {
-    left: 63vw;
-  }
+  
   .single-prod-separator {
-    margin-top: 60%;
+    margin-top: 5%;
   }
 }
 
@@ -1673,61 +1671,19 @@ footer {
     align-items: center;
     width: 60%;
   }
+
+
   .diagonal-banner {
     width: 80vw;
-    top: 46vh;
-    left: 10vw;
   }
   .diagonal-banner p {
     font-size: large;
   }
-  /* --- Pre Owned Model ---*/
-  .pre-owned-model {
-    position: absolute;
-    top: 84vh;
-    left: 5vw;
-    width: 85vw;
-    text-align: center;
-    color: #2c8ba9;
-    font-size: large;
-    font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  .outer-centervue-flex {
+    flex-direction: column;
   }
-  .pre-owned-model p {
-    color: #c90075;
-  }
-  /* --- Additional Photos ---*/
-  .additional-photos {
-    min-width: 100vw;
-    max-height: 19vh;
-    position: absolute;
-    left: 0vw;
-    top: 155vh;
-    margin: 0 auto;
-  }
-  .additional-photos img {
-    width: 10em;
-    margin: 1%;
-  }
-  .single-prod-separator {
-    margin-top: 330%;
-  }
-  /* --- Single Price ---*/
-  .single-price {
-    position: absolute;
-    top: 175vh;
-    left: 25vw;
-  }
-  .single-photo {
-    position: absolute;
-    height: 60vh;
-    width: auto;
-    top: 50vh;
-    left: 1vw;
-  }
-  .single-prod-description {
-    max-width: 95vw;
-    left: 5vw;
-    top: 110vh;
+  .centervue-flex {
+    flex-direction: column;
   }
   #ark-8500 {
     max-width: 75%;
