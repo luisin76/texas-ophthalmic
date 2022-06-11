@@ -509,43 +509,49 @@ s .separator-thick {
   box-shadow: 8px 8px 5px #36454f;
   filter: brightness(1.2);
 }
-  /* --- centervue flex --- */
-  .outer-centervue-flex {
-    display: flex;
-    flex-direction: row;
-    align-items: center;
-    justify-content: space-evenly;
-    width: 100vw;
-
-  }
-  .centervue-flex {
-    display: flex;
-    width: 100%;
-    min-height: 100vh;
-    flex-direction: column;
-    align-items: center;
-    justify-content: space-evenly;
-  }
-.centervue-title{
-    width: 100%;
-    font-family: "Roboto", sans-serif;
+/* --- centervue flex --- */
+.outer-centervue-flex {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-evenly;
+  width: 100vw;
+}
+.centervue-flex {
+  display: flex;
+  width: 100%;
+  min-height: 100vh;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-evenly;
+}
+.centervue-text {
+  width: 90%;
+}
+.centervue-image {
+  width: 100%;
+}
+.centervue-title {
+  width: 100%;
+  font-family: "Roboto", sans-serif;
   font-size: 2em;
-  line-height: 1.5em;
+  line-height: 2em;
   font-weight: bold;
   color: #008daa;
   overflow: visible;
   text-align: center;
-  }
+}
 /* --- Diagonal Banner ---*/
 .diagonal-banner {
-  width: 20vw;
+  width: 10vw;
+  height: 5vh;
+  margin: 5%;
   background-color: #008daa;
   display: flex;
   align-items: center;
   justify-content: center;
   transform: rotate(-45deg);
   transform: skew(-20deg);
- 
 }
 .diagonal-banner p {
   font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
@@ -556,7 +562,6 @@ s .separator-thick {
 }
 /* --- Pre Owned Model ---*/
 .pre-owned-model {
-  
   width: 50%;
   text-align: center;
   color: #2c8ba9;
@@ -570,9 +575,10 @@ s .separator-thick {
 .additional-photos {
   min-width: 100%;
   max-height: auto;
-  display: flex; 
+  margin: 5%;
+  display: flex;
   justify-content: center;
-  align-items: center; 
+  align-items: center;
 }
 .additional-photos img {
   width: 13em;
@@ -580,12 +586,10 @@ s .separator-thick {
 }
 /* --- Single Price ---*/
 .single-price {
- 
 }
 .single-photo {
-  height: 60vh;
+  height: 50vh;
   width: auto;
-
 }
 .single-prod-description {
   max-width: 80%;
@@ -1534,7 +1538,7 @@ footer {
   .dropbtn {
     font-size: 13px;
   }
-  
+
   .single-prod-separator {
     margin-top: 5%;
   }
@@ -1671,7 +1675,6 @@ footer {
     align-items: center;
     width: 60%;
   }
-
 
   .diagonal-banner {
     width: 80vw;
