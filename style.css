@@ -41,6 +41,7 @@
 
 .dropdown > .dropdown-content a:first-child {
   margin-left: 0%;
+  margin-top: 2%;
 }
 .active {
   background-color: #04aa6d;
@@ -590,6 +591,7 @@ s .separator-thick {
 .single-photo {
   height: 50vh;
   width: auto;
+  margin: 10% auto;
 }
 .single-prod-description {
   max-width: 80%;
