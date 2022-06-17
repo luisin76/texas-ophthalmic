@@ -542,6 +542,17 @@ s .separator-thick {
   overflow: visible;
   text-align: center;
 }
+.thumbnail-photos {
+  margin-top: 5%;
+  display: flex;
+  gap: 1em 1em;
+  max-height: 15vh;
+  max-width: 80%;
+}
+.thumbnail-photos img {
+  max-height: 10vh;
+  border: none;
+}
 /* --- Diagonal Banner ---*/
 .diagonal-banner {
   width: 10vw;
@@ -578,6 +589,7 @@ s .separator-thick {
   max-height: auto;
   margin: 5%;
   display: flex;
+  flex-wrap: wrap;
   justify-content: center;
   align-items: center;
 }
@@ -1689,6 +1701,13 @@ footer {
   }
   .centervue-flex {
     flex-direction: column;
+  }
+  .additional-photos {
+    min-height: auto;
+    flex-direction: column;
+    gap: 1em;
+    flex-wrap: nowrap;
+    justify-content: space-evenly;
   }
   #ark-8500 {
     max-width: 75%;
