@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="de">
+  <head>
+    <title>Multiple Slider</title>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link href="css/w3.css" rel="stylesheet" />
+    <link href="css/style.css" rel="stylesheet" />
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+    <script src="js/side-menu.js"></script>
+  </head>
+
+  <body>
+    <div class="w3-content w3-display-container">
+      <img class="mySlides1" src="img_snowtops.jpg" style="width: 100%" />
+      <img class="mySlides1" src="img_lights.jpg" style="width: 100%" />
+      <img class="mySlides1" src="img_mountains.jpg" style="width: 100%" />
+      <img class="mySlides1" src="img_forest.jpg" style="width: 100%" />
+      <button class="w3-button w3-black w3-display-left" onclick="plusDivs(-1, 0)">&#10094;</button>
+      <button class="w3-button w3-black w3-display-right" onclick="plusDivs(1, 0)">&#10095;</button>
+    </div>
+
+    <div class="w3-content w3-display-container">
+      <img class="mySlides2" src="img_snowtops.jpg" style="width: 100%" />
+      <img class="mySlides2" src="img_lights.jpg" style="width: 100%" />
+      <img class="mySlides2" src="img_mountains.jpg" style="width: 100%" />
+      <img class="mySlides2" src="img_forest.jpg" style="width: 100%" />
+      <button class="w3-button w3-black w3-display-left" onclick="plusDivs(-1, 0)">&#10094;</button>
+      <button class="w3-button w3-black w3-display-right" onclick="plusDivs(1, 0)">&#10095;</button>
+    </div>
+
+    <div class="w3-content w3-display-container">
+      <img class="mySlides3" src="img_snowtops.jpg" style="width: 100%" />
+      <img class="mySlides3" src="img_lights.jpg" style="width: 100%" />
+      <img class="mySlides3" src="img_mountains.jpg" style="width: 100%" />
+      <img class="mySlides3" src="img_forest.jpg" style="width: 100%" />
+      <button class="w3-button w3-black w3-display-left" onclick="plusDivs(-1, 0)">&#10094;</button>
+      <button class="w3-button w3-black w3-display-right" onclick="plusDivs(1, 0)">&#10095;</button>
+    </div>
+
+    <div class="w3-content w3-display-container">
+      <img class="mySlides4" src="img_snowtops.jpg" style="width: 100%" />
+      <img class="mySlides4" src="img_lights.jpg" style="width: 100%" />
+      <img class="mySlides4" src="img_mountains.jpg" style="width: 100%" />
+      <img class="mySlides4" src="img_forest.jpg" style="width: 100%" />
+      <button class="w3-button w3-black w3-display-left" onclick="plusDivs(-1, 0)">&#10094;</button>
+      <button class="w3-button w3-black w3-display-right" onclick="plusDivs(1, 0)">&#10095;</button>
+    </div>
+
+    <div class="w3-content w3-display-container">
+      <img class="mySlides5" src="img_snowtops.jpg" style="width: 100%" />
+      <img class="mySlides5" src="img_lights.jpg" style="width: 100%" />
+      <img class="mySlides5" src="img_mountains.jpg" style="width: 100%" />
+      <img class="mySlides5" src="img_forest.jpg" style="width: 100%" />
+      <button class="w3-button w3-black w3-display-left" onclick="plusDivs(-1, 0)">&#10094;</button>
+      <button class="w3-button w3-black w3-display-right" onclick="plusDivs(1, 0)">&#10095;</button>
+    </div>
+
+    <div class="w3-content w3-display-container">
+      <img class="mySlides6" src="img_snowtops.jpg" style="width: 100%" />
+      <img class="mySlides6" src="img_lights.jpg" style="width: 100%" />
+      <img class="mySlides6" src="img_mountains.jpg" style="width: 100%" />
+      <img class="mySlides6" src="img_forest.jpg" style="width: 100%" />
+      <button class="w3-button w3-black w3-display-left" onclick="plusDivs(-1, 0)">&#10094;</button>
+      <button class="w3-button w3-black w3-display-right" onclick="plusDivs(1, 0)">&#10095;</button>
+    </div>
+
+    <script>
+      var slideIndex = [1, 1];
+      var slideId = ["mySlides1", "mySlides2", "mySlides3", "mySlides4", "mySlides5", "mySlides6"];
+      showDivs(1, 0);
+      showDivs(1, 1);
+
+      function plusDivs(n, no) {
+        showDivs((slideIndex[no] += n), no);
+      }
+
+      function showDivs(n, no) {
+        var i;
+        var x = document.getElementsByClassName(slideId[no]);
+        if (n > x.length) {
+          slideIndex[no] = 1;
+        }
+        if (n < 1) {
+          slideIndex[no] = x.length;
+        }
+        for (i = 0; i < x.length; i++) {
+          x[i].style.display = "none";
+        }
+        x[slideIndex[no] - 1].style.display = "block";
+      }
+    </script>
+  </body>
+</html>

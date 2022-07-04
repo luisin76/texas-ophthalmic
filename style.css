@@ -246,7 +246,7 @@
   justify-content: space-evenly;
   align-items: flex-end;
   margin: 4em auto 0 auto;
-  width: 70%;
+  width: 95%;
 }
 .product {
   display: flex;
@@ -949,12 +949,12 @@ s .separator-thick {
 
 .top-wrapper {
   margin: 2% auto;
-  width: 85%;
+  width: 95%;
   min-height: 40vh;
 }
 .photopter-service-title {
   margin: auto;
-  width: 80%;
+  width: 90%;
   min-height: 20rem;
   margin: 2% auto;
   display: flex;
@@ -974,7 +974,7 @@ s .separator-thick {
   width: 100%;
 }
 .title-wrapper {
-  width: 100%;
+  width: 50%;
   font-family: "Roboto", sans-serif;
   text-align: center;
   color: #2c8ba9;
@@ -996,7 +996,7 @@ s .separator-thick {
 }
 
 .service-wrapper {
-  width: 60%;
+  width: 80%;
   margin: auto;
   text-align: justify;
   font-family: "Roboto", sans-serif;
@@ -2031,6 +2031,7 @@ img {
 /* Position the image container (needed to position the left and right arrows) */
 .container {
   position: relative;
+  border: 1px solid red;
 }
 
 /* Hide the images by default */
@@ -2048,7 +2049,7 @@ img {
 .next {
   cursor: pointer;
   position: absolute;
-  top: 40%;
+  top: 50%;
   width: auto;
   padding: 16px;
   margin-top: -50px;
