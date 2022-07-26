@@ -727,8 +727,7 @@ s .separator-thick {
   align-self: center;
 }
 .pfi-price {
-  max-height: 20em;
-
+  min-height: 20em;
   margin: auto;
   display: flex;
   gap: 2em;
@@ -748,7 +747,7 @@ s .separator-thick {
 }
 .order-button {
   align-self: center;
-  justify-self: baseline;
+  justify-self: center;
   height: 7em;
   padding: 1.25em 0 0 0;
 }
@@ -1341,6 +1340,9 @@ form .form-control-submit:hover {
   text-align: left;
   font-size: 1.5em;
 }
+.services-flex ul li:not(:last-child) {
+  margin-bottom: 15px;
+}
 
 /* ----- Sold Out ----- */
 
@@ -1739,8 +1741,9 @@ footer {
     min-height: 5em;
   }
   .product-image-carousel {
-    max-width: 95%;
-    flex-direction: column;
+    max-width: 99%;
+    flex-direction: row;
+    flex-wrap: wrap;
     align-items: center;
     justify-content: space-evenly;
     overflow: visible;
@@ -1964,7 +1967,7 @@ footer {
     flex-direction: column;
   }
   .product-details-description p {
-    text-align: justify;
+    text-align: center;
   }
 
   /* --- Free Shipping Banner */
@@ -2031,7 +2034,7 @@ img {
 /* Position the image container (needed to position the left and right arrows) */
 .container {
   position: relative;
-  border: 1px solid red;
+  /* border: 1px solid red; */
 }
 
 /* Hide the images by default */
