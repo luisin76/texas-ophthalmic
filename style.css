@@ -749,11 +749,13 @@ s .separator-thick {
   align-self: center;
   justify-self: center;
   height: 7em;
-  padding: 1.25em 0 0 0;
 }
 
 .order-button a,
 .other-product-flex-item a {
+  min-width: 100%;
+  display: flex;
+  align-self: center;
   padding: 15px;
   border: 1px solid #008daa;
   border-radius: 25px;
