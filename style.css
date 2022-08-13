@@ -884,7 +884,7 @@ s .separator-thick {
   display: flex;
   justify-self: center;
   align-self: center;
-  min-width: 100%;
+  max-width: 100%;
 }
 .product-details-description {
   min-width: 30%;
