@@ -138,7 +138,24 @@
     text-align: left;
   }
 }
-
+/*--- Holiday Message ---*/
+.holiday-message {
+  display: flex;
+  max-width: 80%;
+  margin: 5% auto;
+  flex-direction: column;
+  align-items: center;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  text-align: center;
+}
+.holiday-message h3 {
+  font-size: 1.5em;
+  color: #c90075;
+}
+.holiday-message p {
+  font-size: 1.25em;
+  color: #005e7a;
+}
 /*----- Welcome Message -----*/
 
 .welcome-message {
@@ -239,14 +256,15 @@
 
 .products-wrapper {
   border: none;
+  overflow: hidden;
 }
 
 .products {
   display: flex;
   justify-content: space-evenly;
-  align-items: flex-end;
-  margin:  0 auto;
+  align-items: center;
   width: 95%;
+  overflow: hidden;
 }
 .product {
   display: flex;
@@ -255,6 +273,13 @@
   gap: 0.5em;
   align-items: center;
   width: 30%;
+  margin: 0 auto -10% auto;
+}
+.product iframe {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 60%;
 }
 .product h4 {
   font-family: Arial, Helvetica, sans-serisf;
@@ -293,7 +318,25 @@
   margin-bottom: 80%;
   width: 100px;
 }
-
+/* --- slit lamp products -- */
+.sl-products {
+  max-width: 65%;
+  min-height: 50vh;
+  margin: 0 auto 3%;
+  overflow: hidden;
+  display: flex;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #005a6d;
+}
+.sl-image {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-evenly;
+}
+.sl-image h2 span {
+  color: #c90075;
+}
 /*-----New Equipment Sales area-----*/
 .new-equipment-sales {
   width: 90%;
@@ -434,6 +477,20 @@ s .separator-thick {
   flex: 1;
 }
 
+/*  Product Specifications 2 columns */
+.product-specifications-2-columns {
+  max-width: 80%;
+  margin: 0 auto 5%;
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-evenly;
+  line-height: 1.5em;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #008daa;
+}
+.product-specifications-2-columns h3 {
+  color: #005e7a;
+}
 /*  --- Phoropter Styling */
 
 .phoropter-wrapper {
@@ -635,6 +692,7 @@ s .separator-thick {
 .product-wrapper {
   width: 80%;
   margin: auto;
+  overflow: visible;
 }
 .product-title {
   width: 40%;
@@ -668,6 +726,17 @@ s .separator-thick {
   align-items: center;
   margin: 0 auto;
   width: 75%;
+}
+.photo-wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 2em;
+  max-width: 85%;
+  margin: 0 auto;
+}
+.photo-wrapper > a > img {
+  border: 1px solid black;
 }
 .product-flex-item {
   width: 50%;
@@ -727,19 +796,18 @@ s .separator-thick {
   align-self: center;
 }
 .pfi-price {
-  min-height: 20em;
-  margin: auto;
+  min-height: 15vh;
+  margin: 0 auto 8%;
   display: flex;
-  gap: 2em;
   flex-direction: column;
-  justify-content: unset;
+  justify-content: space-around;
   align-items: center;
 }
 .pfi-price h2 {
   align-self: center;
   justify-self: center;
   padding-top: 1em;
-  height: 2.5em;
+  height: 4.5em;
   color: #008daa;
 }
 .pfi-price h2 span {
@@ -748,7 +816,7 @@ s .separator-thick {
 .order-button {
   align-self: center;
   justify-self: center;
-  height: 7em;
+  min-height: 7em;
 }
 
 .order-button a,
@@ -773,13 +841,14 @@ s .separator-thick {
 
 .product-image-carousel {
   position: relative;
-  margin: 5% auto 0 auto;
+  margin: -10% auto 7%;
   width: 80%;
   display: flex;
+  align-items: center;
   min-height: 15em;
   flex-direction: row;
   justify-content: space-around;
-  overflow: hidden;
+  overflow: visible;
 }
 .product-img img {
   transition: all 0.5s ease-in-out;
@@ -1072,7 +1141,6 @@ s .separator-thick {
   text-align: center;
 }
 .phoropter-cleaning-elements {
-
   max-width: 65%;
   margin: 4% auto;
   display: flex;
@@ -1084,7 +1152,6 @@ s .separator-thick {
   font-family: "Roboto", sans-serif;
   text-align: center;
   color: #2c8ba9;
-  
 }
 .phoropter-cleaning-text {
   width: 50%;
