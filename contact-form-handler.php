@@ -13,8 +13,8 @@
    if(preg_match('/http|www/i',$message)) {
        die() ;
      }
-
-        $to = "admin@texas-ophthalmic.com, adriana2020@texas-ophthalmic.com, luiscflores@gmail.com";
+		    $from = 'service@texas-ophthalmic.com';
+        $to = 'developer@texas-ophthalmic.com';
         
         $body = "";
         $body .= "Contact form submitted by ".$userName. "\r";
@@ -26,9 +26,12 @@
         $body .= "Phone: ".$userPhone. "\r\n";
         $body .= "Message: ".$message. "\r\n";
 
+
+        $headers .= "Reply to $userEmail \r\n";
+
         $messageSubject = '';
         $messageSubject .= "Contact form submitted by ".$userName. "\r";
         
-        mail($to,$messageSubject,$body);
+        mail($to,$messageSubject,$body,$headers);
         header("Location: http://texas-ophthalmic.com/landingPage.html");
 ?>
