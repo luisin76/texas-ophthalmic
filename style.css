@@ -510,16 +510,30 @@ s .separator-thick {
 /*  Product Specifications 2 columns */
 .product-specifications-2-columns {
   max-width: 80%;
-  margin: 0 auto 5%;
+  margin: auto;
   display: flex;
-  align-items: flex-start;
-  justify-content: space-evenly;
+  align-items: center;
+  justify-content: space-between;
   line-height: 1.5em;
   font-family: Arial, Helvetica, sans-serif;
   color: #008daa;
 }
 .product-specifications-2-columns h3 {
   color: #005e7a;
+  text-align: left;
+}
+.left-side {
+  width: 40%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 0 auto 5%;
+}
+.right-side {
+  width: 50%;
+  margin-bottom: 5%;
+  display: flex;
+  justify-content: flex-start;
 }
 /*  --- Phoropter Styling */
 
@@ -1557,9 +1571,12 @@ footer {
   width: 100%;
   margin: auto;
   background-color: #008daa;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 .footer-wrapper {
-  width: 100%;
+  width: 70%;
   height: 150px;
   display: flex;
   justify-content: space-between;

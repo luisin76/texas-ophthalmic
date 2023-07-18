@@ -13,8 +13,8 @@
    if(preg_match('/http|www/i',$message)) {
        die() ;
      }
-		    $from = 'service@texas-ophthalmic.com';
-        $to = 'developer@texas-ophthalmic.com';
+		    $from = 'developer@texas-ophthalmic.com';
+        $to = 'admin@texas-ophthalmic.com, adriana2020@texas-ophthalmic.com, developer@texas-ophthalmic.com';
         
         $body = "";
         $body .= "Contact form submitted by ".$userName. "\r";

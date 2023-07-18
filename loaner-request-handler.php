@@ -15,9 +15,9 @@
           die() ;
         }
         
-        $to = "admin@texas-ophthalmic.com, adriana2020@texas-ophthalmic.com, luiscflores@gmail.com";
+        $from = 'developer@texas-ophthalmic.com';
+        $to = 'admin@texas-ophthalmic.com, adriana2020@texas-ophthalmic.com, developer@texas-ophthalmic.com';
 
-        
         $body = "";
         $body .= "Loaner request submitted by ".$userName. "\r\n";
         $body .= "Practice Name: ".$practiceName. "\r\n";
