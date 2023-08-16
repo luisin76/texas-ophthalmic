@@ -292,7 +292,10 @@
   margin: auto;
   padding-top: 3%;
 }
-
+.prod-video {
+  margin-top: -2%;
+  margin-left: 16%;
+}
 .product iframe {
   display: flex;
   align-items: center;
