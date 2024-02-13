@@ -1,0 +1,46 @@
+body {
+  margin: 0 auto;
+  padding: none;
+  width: 80%;
+}
+hr {
+  margin: none;
+  padding: none;
+  border-top: 1px solid lightgray;
+  width: 100%;
+}
+ul {
+  list-style: none;
+  line-height: 1.5em;
+}
+
+.features {
+  margin: 2% auto;
+  min-height: 40vh;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  text-align: left;
+}
+.specifications {
+  margin: 5% auto;
+  display: flex;
+  gap: 10%;
+  flex: 1 1;
+  max-height: 50vh;
+}
+.column {
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+  justify-content: start;
+  max-width: 25%;
+}
+.axis {
+  margin: 0 auto;
+}
+.spacing {
+  line-height: 1em;
+  padding: 0;
+  margin: 0;
+}

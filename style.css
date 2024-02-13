@@ -16,10 +16,9 @@
 }
 .mainlogo a {
   width: 30%;
-
 }
 .mainlogo > a > img {
-  width:70%;
+  width: 70%;
   margin-left: 30%;
 }
 
@@ -170,7 +169,7 @@
 .welcome-message {
   width: 80%;
   margin: 4% auto;
-  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", Arial, sans-serif;
   display: flex;
   justify-content: flex-start;
   gap: 0;
@@ -185,14 +184,13 @@
 }
 .bigger {
   font-size: 5em;
-
 }
 .welcome-message h1 {
   width: 100%;
   text-align: center;
   text-transform: capitalize;
   padding: 2% 0;
-  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", Arial, sans-serif;
   font-size: 3em;
   color: #2c8ba9;
 }
@@ -357,7 +355,7 @@
   color: #005a6d;
 }
 .sl-product {
-  justify-content: space-around ;
+  justify-content: space-around;
   min-height: 80vh;
   margin-right: 5%;
 }
@@ -461,7 +459,7 @@
   min-width: 25%;
   min-height: 4em;
   margin: 2% auto 1% auto;
-  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", Arial, sans-serif;
   font-size: 2em;
   font-weight: bold;
   color: #008daa;
@@ -1108,11 +1106,10 @@ s .separator-thick {
   align-items: center;
 }
 .blue {
-  margin:  auto;
+  margin: auto;
   width: 50%;
   align-items: center;
   line-height: 2.5em;
-  
 }
 .pho-ser-inner {
   display: flex;
@@ -1126,7 +1123,7 @@ s .separator-thick {
 }
 .title-wrapper {
   width: 90%;
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
   text-align: center;
   color: #2c8ba9;
 }
@@ -2192,6 +2189,9 @@ footer {
 img {
   vertical-align: middle;
 }
+.center-text {
+  text-align: center;
+}
 
 /* Position the image container (needed to position the left and right arrows) */
 .container {
@@ -2276,4 +2276,70 @@ img {
 .active,
 .demo:hover {
   opacity: 1;
+}
+
+/* Styling for ARK-980  */
+.border {
+  border: 1px solid red;
+}
+.center-flex-items {
+  align-items: center;
+}
+.start-flex-items {
+  align-items: flex-start;
+}
+.center-this-text {
+  text-align: center;
+}
+.flex-content-stretch {
+  display: flex;
+  align-items: stretch;
+}
+.top-margin-20 {
+  margin-top: 50%;
+}
+
+.medium {
+  width: 50%;
+}
+.ark980-container {
+  margin: 2% auto;
+  padding: none;
+  width: 80%;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", Arial, sans-serif;
+  color: #005a6d;
+}
+.features {
+  margin: 2% auto;
+  min-height: 40vh;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+
+  text-align: left;
+}
+
+.column {
+  display: flex;
+  flex-direction: column;
+  justify-content: stretch;
+  width: 30%;
+  line-height: 2em;
+  height: 100%;
+}
+.specifications {
+  margin: 5% auto;
+  display: flex;
+  gap: 5%;
+  width: 100%;
+  justify-content: space-evenly;
+  height: 100%;
+}
+
+.axis {
+  margin: 0 auto;
+}
+.spacing {
+  padding: 0;
+  margin: 0;
 }
