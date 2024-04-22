@@ -117,22 +117,24 @@
     </div><!-- LOANER REQUEST FORM -->
 
       <div class="contact-body">
-          <div class="contact-form">
-              <form id="contact-form" method="POST" action="loaner-request-handler.php">
-                  <input name="name" type="text" class="form-control" placeholder="Name" required/><br />
-                  <input name="practiceName" type="text" class="form-control" placeholder="Practice Name" required/><br />
-                  <input name="officeAddress" type="text" class="form-control" placeholder="Office Address" required/><br />
-                  <input name="officeCity" type="text" class="form-control" placeholder="City" required/><br />
-                  <input name="officeState" type="text" class="form-control" placeholder="State" required/><br />
-                  <input name="officeZip" type="text" class="form-control" placeholder="Zip Code" required/><br />
-                  <input name="email" class="form-control" type="text" placeholder="E-mail"/><br />
-                  <input name="phone" class="form-control" type="text" placeholder="Phone Number"/><br />
-                  <textarea name="message" class="form-control" rows="4" placeholder="Message"></textarea><br />
-                  <input type="submit" class="form-control-submit" value="Send message"/>
-              </form>
-          </div>
+        <form id="contact-form" action="https://formsubmit.co/luiscflores@gmail.com" method="POST">
+          <input type="hidden" name="_subject" value="New Loaner Request">
+          <input type="hidden" name="_cc" value="admin@texas-ophthalmic.com">
+          <input type="hidden" name="_cc" value="developer@texas-ophthalmic.com">
+          <input name="name" type="text" class="form-control" placeholder="Name" required /><br />
+          <input name="practiceName" type="text" class="form-control" placeholder="Practice Name" required /><br />
+          <input name="officeAddress" type="text" class="form-control" placeholder="Office Address" required /><br />
+          <input name="officeCity" type="text" class="form-control" placeholder="City" required /><br />
+          <input name="officeState" type="text" class="form-control" placeholder="State" required /><br />
+          <input name="_replyto" class="form-control" type="email" placeholder="E-mail" required/><br />
+          <input name="phone" class="form-control" type="text" placeholder="Phone Number" /><br />
+          <textarea name="message" class="form-control" rows="4" placeholder="Message"></textarea><br />
+          <input type="submit" class="form-control-submit" value="Send message" />
+          <input type="hidden" name="_next" value="http://texas-ophthalmic.com/landingPage.html">
+
+
+        </form>
       </div>
-    </div>
 
     <!-- Footer and contact us information-->
         <!-- Top Button -->
@@ -170,7 +172,7 @@
           <p>
             Contact us:<br />
             &#9742; (210) 519-9622<br />
-            Service: (210) 507-2096<br />
+            Service: (210) 519-9622<br />
           </p>
           <a href="mailto:admin@texas-ophthalmic.com">
             admin@texas-ophthalmic.com
