@@ -16,7 +16,7 @@
         }
         
         $from = 'developer@texas-ophthalmic.com';
-        $to = 'admin@texas-ophthalmic.com, adriana2020@texas-ophthalmic.com, developer@texas-ophthalmic.com, test@texas-ophthalmic.com';
+        $to = 'luis.c.flores@gmail.com';
 
         $body = "";
         $body .= "Loaner request submitted by ".$userName. "\r\n";
